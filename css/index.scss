@@ -1,0 +1,184 @@
+@import "reset";
+@import "animations";
+@import "footer";
+
+/* =====================
+	HEADER
+===================== */
+.header {
+	height: 100vh;
+	background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F417026.jpg&f=1&nofb=1&ipt=fd523c88d2a0fe28f2f4f42f4b5feb36adaea270917e94965e5c2c99868696a9")
+		center / cover no-repeat;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+
+	&::before {
+		content: "";
+		position: absolute;
+		inset: 0;
+		background: rgba(143, 143, 143, 0.667);
+		pointer-events: none;
+		backdrop-filter: blur(3px);
+		z-index: 1;
+	}
+}
+
+.header-content {
+	max-width: 900px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	gap: 0.8rem;
+	align-items: center;
+	padding: 1rem;
+}
+
+.header-logo {
+	max-width: 300px;
+	filter: drop-shadow(0 2px 5px rgba($dark-color, 1));
+	z-index: 2;
+}
+
+.cta-section {
+	display: flex;
+	gap: 1rem;
+	z-index: 2;
+
+	.btn {
+		padding: 0.8rem 1.5rem;
+		border-radius: $border-radius-rounded;
+		font-weight: 600;
+		cursor: pointer;
+		border: none;
+		color: white;
+		font-size: 1rem;
+		@include flex-center();
+		&:hover {
+			opacity: 0.9;
+		}
+	}
+
+	.contact-btn {
+		background-color: $primary-color;
+	}
+
+	.saved-btn {
+		background-color: $secondary-color;
+	}
+}
+
+/* =====================
+   FILTERS SECTION
+===================== */
+.filters-section {
+	padding: 1rem;
+}
+
+.filters {
+	@include flex-center();
+	gap: 0.5rem;
+}
+
+.search-bar {
+	padding: 0.8rem 1rem;
+	border-radius: $border-radius-rounded;
+	border: $border-general;
+	font-size: 1rem;
+	color: $dark-color;
+	background-color: white;
+}
+
+.sort-btn {
+	@include flex-center;
+	background-color: $dark-color;
+	border: $border-general;
+	border-radius: $border-radius-rounded;
+	width: 45px;
+	aspect-ratio: 1;
+	cursor: pointer;
+	box-shadow: $box-shadow-general;
+
+	img {
+		width: 22px;
+	}
+
+	&:hover {
+		background-color: $primary-color;
+		transform: scale(1.05);
+	}
+}
+
+/* =====================
+  	 GAMES GRID 
+===================== */
+.games-grid {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 2rem;
+	justify-items: center;
+	width: 100%;
+
+	@media screen and (min-width: 700px) {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+
+/* =====================
+   GAME CARD 
+===================== */
+.game-card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	max-width: 280px;
+	gap: 0.8rem;
+	cursor: pointer;
+	transition: transform 0.25s ease;
+
+	&:hover {
+		transform: translateY(-8px);
+
+		.game-image {
+			box-shadow: $box-shadow-general;
+			transform: scale(1.05);
+		}
+	}
+}
+
+.game-image {
+	width: 100%;
+	aspect-ratio: 3 / 4;
+	border-radius: $border-radius-general;
+	box-shadow: $box-shadow-general;
+	object-fit: cover;
+	object-position: top center;
+}
+
+.game-info {
+	display: flex;
+	flex-direction: column;
+	gap: 0.25rem;
+	width: 100%;
+
+	.game-title {
+		font-family: "Exo2", sans-serif;
+		font-size: 1.2rem;
+		font-weight: 600;
+		color: darken($dark-color, 10%);
+	}
+
+	.game-genre {
+		font-size: 1rem;
+		text-transform: uppercase;
+		letter-spacing: 0.5px;
+	}
+
+	.game-size {
+		font-size: 1rem;
+		color: rgba($dark-color, 0.8);
+	}
+}

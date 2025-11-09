@@ -1,0 +1,495 @@
+/* =====================
+   VARIABLES
+===================== */
+/* =====================
+   TYPOGRAPHY
+===================== */
+@font-face {
+  font-family: "Exo2";
+  src: url("../typography/Exo2-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../typography/Exo2-Bold.ttf") format("truetype");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../typography/Inter-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../typography/Inter-Bold.ttf") format("truetype");
+  font-weight: 600;
+}
+/* =====================
+   RESET & BASE STYLES
+===================== */
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  border: none;
+  list-style: none;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  background-color: #cccccc;
+  overflow-x: hidden;
+  color: #4c5359;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  width: 100%;
+  display: block;
+}
+
+/* =====================
+   MIXINS
+===================== */
+/* =====================
+   UTILITIES
+===================== */
+.bold {
+  font-weight: 600;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.blue-text {
+  color: #008fcb;
+}
+
+.red-text {
+  color: #ff3b30;
+}
+
+.important-text {
+  color: #008fcb;
+}
+
+.hidden {
+  opacity: 0;
+  scale: 0.9;
+}
+
+.shown {
+  opacity: 1;
+  scale: 1;
+}
+
+hr {
+  width: 100%;
+  background-color: rgba(76, 83, 89, 0.15);
+  height: 2px;
+  border: none;
+}
+
+/* =====================
+   BUTTONS
+===================== */
+.btn {
+  padding: 0.8rem 1.6rem;
+  border-radius: 8px !important;
+  font-size: 1rem;
+  cursor: pointer;
+  width: 100%;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: 1px;
+  position: relative;
+  overflow: hidden;
+  background: #008fcb;
+  color: white;
+  border: none;
+  transition: background 0.3s ease;
+}
+@media screen and (min-width: 700px) {
+  .btn {
+    max-width: 250px;
+  }
+}
+.btn:hover {
+  background: rgb(0, 114.2591133005, 162.2);
+}
+
+.ghost-btn {
+  background: transparent;
+  border: solid 2px #008fcb;
+  color: #008fcb;
+}
+.ghost-btn:hover {
+  box-shadow: 0 2px 5px rgba(76, 83, 89, 0.05);
+  transform: translateY(-2px);
+}
+.ghost-btn:active {
+  transform: scale(0.95);
+  box-shadow: none;
+}
+
+/* =====================
+   LAYOUT UTILITIES
+===================== */
+.body-content {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+}
+
+section {
+  padding: 2rem 1rem;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.section-title {
+  color: #4c5359;
+  text-transform: uppercase;
+  font-size: 2rem;
+  font-family: "Exo2", sans-serif;
+  letter-spacing: 1.5px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.section-description {
+  width: 100%;
+  max-width: 700px;
+  text-align: center;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  color: rgb(52.5090909091, 57.3454545455, 61.4909090909);
+}
+
+.two-columns {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  width: 100%;
+}
+@media screen and (min-width: 800px) {
+  .two-columns {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.show-up,
+.show-down,
+.show-left,
+.show-right,
+.bounce-in,
+.rotate-left,
+.rotate-right {
+  opacity: 0;
+}
+
+.animated {
+  opacity: 1;
+}
+.animated.show-up {
+  animation: showUp 0.5s forwards;
+}
+.animated.show-down {
+  animation: showDown 0.5s forwards;
+}
+.animated.show-left {
+  animation: showLeft 0.5s forwards;
+}
+.animated.show-right {
+  animation: showRight 0.5s forwards;
+}
+.animated.bounce-in {
+  animation: bounceIn 0.5s forwards;
+}
+.animated.rotate-left {
+  animation: rotateLeft 0.5s forwards;
+}
+.animated.rotate-right {
+  animation: rotateRight 0.5s forwards;
+}
+
+/* ---------------------
+   Keyframes
+--------------------- */
+@keyframes showUp {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes showDown {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes showLeft {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes showRight {
+  0% {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  80% {
+    transform: scale(0.95);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes rotateLeft {
+  0% {
+    transform: translateX(-100%) rotate(-45deg);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0) rotate(0deg);
+    opacity: 1;
+  }
+}
+@keyframes rotateRight {
+  0% {
+    transform: translateX(100%) rotate(45deg);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0) rotate(0deg);
+    opacity: 1;
+  }
+}
+/* =====================
+	HEADER
+===================== */
+.header {
+  height: 100vh;
+  background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F417026.jpg&f=1&nofb=1&ipt=fd523c88d2a0fe28f2f4f42f4b5feb36adaea270917e94965e5c2c99868696a9") center/cover no-repeat;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(143, 143, 143, 0.667);
+  pointer-events: none;
+  backdrop-filter: blur(3px);
+  z-index: 1;
+}
+
+.header-content {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  align-items: center;
+  padding: 1rem;
+}
+
+.header-logo {
+  max-width: 300px;
+  filter: drop-shadow(0 2px 5px #4c5359);
+  z-index: 2;
+}
+
+.cta-section {
+  display: flex;
+  gap: 1rem;
+  z-index: 2;
+}
+.cta-section .btn {
+  padding: 0.8rem 1.5rem;
+  border-radius: 35px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  color: white;
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cta-section .btn:hover {
+  opacity: 0.9;
+}
+.cta-section .contact-btn {
+  background-color: #008fcb;
+}
+.cta-section .saved-btn {
+  background-color: #ff3b30;
+}
+
+/* =====================
+   FILTERS SECTION
+===================== */
+.filters-section {
+  padding: 1rem;
+}
+
+.filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.search-bar {
+  padding: 0.8rem 1rem;
+  border-radius: 35px;
+  border: solid 1px rgba(76, 83, 89, 0.15);
+  font-size: 1rem;
+  color: #4c5359;
+  background-color: white;
+}
+
+.sort-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #4c5359;
+  border: solid 1px rgba(76, 83, 89, 0.15);
+  border-radius: 35px;
+  width: 45px;
+  aspect-ratio: 1;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(76, 83, 89, 0.05);
+}
+.sort-btn img {
+  width: 22px;
+}
+.sort-btn:hover {
+  background-color: #008fcb;
+  transform: scale(1.05);
+}
+
+/* =====================
+  	 GAMES GRID 
+===================== */
+.games-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  justify-items: center;
+  width: 100%;
+}
+@media screen and (min-width: 700px) {
+  .games-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* =====================
+   GAME CARD 
+===================== */
+.game-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 280px;
+  gap: 0.8rem;
+  cursor: pointer;
+  transition: transform 0.25s ease;
+}
+.game-card:hover {
+  transform: translateY(-8px);
+}
+.game-card:hover .game-image {
+  box-shadow: 0 2px 5px rgba(76, 83, 89, 0.05);
+  transform: scale(1.05);
+}
+
+.game-image {
+  width: 100%;
+  aspect-ratio: 3/4;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(76, 83, 89, 0.05);
+  object-fit: cover;
+  object-position: top center;
+}
+
+.game-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  width: 100%;
+}
+.game-info .game-title {
+  font-family: "Exo2", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: rgb(52.5090909091, 57.3454545455, 61.4909090909);
+}
+.game-info .game-genre {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.game-info .game-size {
+  font-size: 1rem;
+  color: rgba(76, 83, 89, 0.8);
+}
+
+/*# sourceMappingURL=style.css.map */

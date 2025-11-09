@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta property="og:title" content="Joy-Con Lab" />
+		<meta
+			property="og:description"
+			content="Catálogo de Juegos de Nintendo Switch"
+		/>
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="./assets/icons/logo.png" />
+		<link rel="icon" type="image/png" href="./assets/icons/logo.png" />
+		<link
+			rel="apple-touch-icon"
+			sizes="180x180"
+			href="./assets/icons/logo.png"
+		/>
+		<link rel="stylesheet" href="./css/style.css" />
+		<title>Joy-Con Lab</title>
+	</head>
+
+	<body id="body">
+		<header id="header" class="header">
+			<div class="header-content">
+				<img src="./assets/icons/logo-text.png" class="header-logo" />
+
+				<div class="cta-section">
+					<button id="contact-btn" class="btn contact-btn">Contactar</button>
+					<button id="saved-btn" class="btn saved-btn">Guardados</button>
+				</div>
+			</div>
+		</header>
+
+		<div class="body-content">
+			<section id="filters-section" class="filters-section">
+				<div class="filters">
+					<input
+						type="text"
+						id="search-bar"
+						class="search-bar"
+						placeholder="Buscar juegos..."
+					/>
+
+					<button id="sort-btn" class="sort-btn">
+						<img src="./assets/icons/funnel-simple-bold.svg" alt="Filtrar" />
+					</button>
+					<!-- <div class="filter-dropdown">
+						<ul id="filter-options" class="filter-options hidden">
+							<li data-sort="name-asc">Nombre A–Z</li>
+							<li data-sort="name-desc">Nombre Z–A</li>
+							<li data-sort="size-asc">Tamaño ↑</li>
+							<li data-sort="size-desc">Tamaño ↓</li>
+						</ul>
+					</div> -->
+				</div>
+			</section>
+
+			<!-- Catálogo -->
+			<section id="catalog-section" class="catalog-section">
+				<main id="games-grid" class="games-grid"></main>
+			</section>
+		</div>
+
+		<script src="./js/main.js"></script>
+	</body>
+</html>
