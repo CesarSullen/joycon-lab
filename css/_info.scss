@@ -1,0 +1,106 @@
+.info-section {
+	max-width: 900px;
+	margin: 0 auto;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	gap: 1.5rem;
+	position: relative;
+
+	&::before {
+		content: "";
+		position: absolute;
+		top: -50px;
+		left: 50%;
+		transform: translateX(-50%);
+		width: 200px;
+		height: 80px;
+		background: $accent-color;
+		filter: blur(80px);
+		opacity: 0.3;
+		animation: pulse-shadow 8s ease-in-out infinite alternate;
+	}
+}
+
+.info-title {
+	font-family: "FiraSans", sans-serif;
+	font-size: 2.2rem;
+	color: $accent-color;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+
+	@media screen and (min-width: 768px) {
+		font-size: 2.5rem;
+	}
+}
+
+.info-item {
+	background: rgba($dark-color, 0.2);
+	border: $border-general;
+	border-radius: $border-radius-general;
+	width: 100%;
+	box-shadow: $box-shadow-general;
+	text-align: left;
+	padding: 1.5rem;
+	transition: all 0.3s ease;
+
+	&:hover {
+		transform: translateY(-3px);
+		box-shadow: 0 0 15px rgba($accent-color, 0.2);
+	}
+
+	p {
+		line-height: 1.6;
+		color: $light-color;
+		font-size: 1rem;
+	}
+
+	strong {
+		color: lighten($accent-color, 10%);
+	}
+
+	@media screen and (min-width: 768px) {
+		padding: 2rem;
+	}
+}
+
+.info-subtitle {
+	font-family: "Inter", sans-serif;
+	font-size: 1.4rem;
+	font-weight: 600;
+	color: $primary-color;
+	margin-bottom: 0.8rem;
+	border-left: 4px solid $accent-color;
+	padding-left: 0.6rem;
+	text-transform: capitalize;
+
+	@media screen and (min-width: 768px) {
+		font-size: 1.6rem;
+	}
+}
+
+.info-link {
+	display: inline-block;
+	color: $accent-color;
+	font-weight: 600;
+	position: relative;
+	transition: all 0.3s ease;
+
+	&::after {
+		content: "";
+		position: absolute;
+		left: 0;
+		bottom: -2px;
+		width: 100%;
+		height: 2px;
+		background: $accent-color;
+		transform: scaleX(0);
+		transform-origin: right;
+		transition: transform 0.3s ease;
+	}
+
+	&:hover::after {
+		transform: scaleX(1);
+		transform-origin: left;
+	}
+}

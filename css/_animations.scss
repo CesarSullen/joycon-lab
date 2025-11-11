@@ -122,3 +122,14 @@
 		opacity: 1;
 	}
 }
+
+@keyframes pulse-shadow {
+	0% {
+		transform: translateX(-50%) scale(0.8);
+		opacity: 0.25;
+	}
+	100% {
+		transform: translateX(-50%) scale(1.2);
+		opacity: 0.45;
+	}
+}

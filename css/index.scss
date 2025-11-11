@@ -1,6 +1,7 @@
 @import "reset";
 @import "animations";
 @import "footer";
+@import "info";
 
 /* =====================
    HERO SECTION
@@ -12,18 +13,21 @@
 	position: relative;
 	color: $light-color;
 	padding: 1rem;
-}
-.hero-shadow {
-	position: absolute;
-	top: -30px;
-	left: 50%;
-	transform: translateX(-50%);
-	width: 60%;
-	height: 50px;
-	border-radius: 50%;
-	background-color: $accent-color;
-	filter: blur(40px);
-	animation: pulse-shadow 5s infinite alternate;
+	position: relative;
+
+	&::before {
+		content: "";
+		position: absolute;
+		top: -50px;
+		left: 50%;
+		transform: translateX(-50%);
+		width: 200px;
+		height: 80px;
+		background: $accent-color;
+		filter: blur(80px);
+		opacity: 0.3;
+		animation: pulse-shadow 8s ease-in-out infinite alternate;
+	}
 }
 
 @keyframes pulse-shadow {
@@ -123,7 +127,7 @@
 		padding: 0.8rem;
 
 		&:hover {
-			transform: scale(1.08) rotate(5deg);
+			transform: scale(1.08) rotate(15deg);
 			box-shadow: 0 0 8px rgba($accent-color, 0.8);
 		}
 
