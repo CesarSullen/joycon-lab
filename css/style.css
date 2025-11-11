@@ -227,7 +227,7 @@ section {
   animation: showRight 0.5s forwards;
 }
 .animated.bounce-in {
-  animation: bounceIn 0.5s forwards;
+  animation: bounceIn 0.5s;
 }
 .animated.rotate-left {
   animation: rotateLeft 0.5s forwards;
@@ -538,12 +538,12 @@ section {
   gap: 0.8rem;
   cursor: pointer;
   transition: transform 0.25s ease;
+  border-radius: 8px;
 }
 .game-card:hover {
   transform: translateY(-8px);
 }
 .game-card:hover .game-image {
-  box-shadow: 0 2px 5px rgba(85, 80, 80, 0.05);
   transform: scale(1.05);
 }
 
@@ -554,6 +554,7 @@ section {
   box-shadow: 0 2px 5px rgba(85, 80, 80, 0.05);
   object-fit: cover;
   object-position: top center;
+  overflow: hidden;
 }
 
 .game-info {
