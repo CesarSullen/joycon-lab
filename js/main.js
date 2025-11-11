@@ -39,14 +39,10 @@ document.addEventListener("DOMContentLoaded", async () => {
 				sorted.sort((a, b) => b.name.localeCompare(a.name));
 				break;
 			case "size-asc":
-				sorted.sort(
-					(a, b) => parseFloat(a.storage_size) - parseFloat(b.storage_size)
-				);
+				sorted.sort((a, b) => a.storage_size - b.storage_size);
 				break;
 			case "size-desc":
-				sorted.sort(
-					(a, b) => parseFloat(b.storage_size) - parseFloat(a.storage_size)
-				);
+				sorted.sort((a, b) => b.storage_size - a.storage_size);
 				break;
 			case "recent":
 				sorted = games.slice().reverse();

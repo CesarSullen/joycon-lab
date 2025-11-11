@@ -1,474 +1,474 @@
 [
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Assassin-s-Creed-III-Remastered-1514676.html",
-        "genre": "Acción",
-        "id": 1,
-        "image_url": "https://cdn.mobygames.com/covers/7534933-assassins-creed-iii-remastered-xbox-one-front-cover.png",
-        "name": "Assassin's Creed III Remastered",
-        "storage_size": 14.7
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/ASSASSIN-S-CREED-THE-EZIO-COLLECTION-2171132.html",
-        "genre": "Acción, Aventura",
-        "id": 2,
-        "image_url": "https://cdn.mobygames.com/covers/3233379-assassins-creed-the-ezio-collection-xbox-one-front-cover.png",
-        "name": "Assassins Creed The Ezio Collection",
-        "storage_size": 7.4
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Assassin-s-Creed-The-Rebel-Collection-1683980.html",
-        "genre": "Acción, Aventura",
-        "id": 3,
-        "image_url": "https://cdn.mobygames.com/covers/8026029-assassins-creed-the-rebel-collection-nintendo-switch-front-cover.png",
-        "name": "Assassins Creed The Rebel Collection",
-        "storage_size": 11.9
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Bastion-1430547.html",
-        "genre": "Acción, Aventura, Rol (RPG)",
-        "id": 4,
-        "image_url": "https://cdn.mobygames.com/covers/1760689-bastion-windows-front-cover.jpg",
-        "name": "Bastion",
-        "storage_size": 1.0
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/CRISIS-CORE-FINAL-FANTASY-VII-REUNION-2265466.html",
-        "genre": "Rol (RPG)",
-        "id": 5,
-        "image_url": "https://cdn.mobygames.com/covers/11184594-crisis-core-final-fantasy-vii-reunion-xbox-one-front-cover.jpg",
-        "name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
-        "storage_size": 14.4
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Cult-of-the-Lamb-2210770.html",
-        "genre": "Acción, Aventura, Estrategia",
-        "id": 6,
-        "image_url": "https://cdn.mobygames.com/covers/10979806-cult-of-the-lamb-xbox-one-front-cover.jpg",
-        "name": "Cult of the Lamb",
-        "storage_size": 1.9
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Cuphead-1532319.html",
-        "genre": "Acción, Plataformas, Arcade, Disparos (Shooter)",
-        "id": 7,
-        "image_url": "https://cdn.mobygames.com/covers/1122773-cuphead-windows-apps-front-cover.jpg",
-        "name": "Cuphead",
-        "storage_size": 3.5
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Dark-Souls-Remastered-1325790.html",
-        "genre": "Acción, Rol (RPG)",
-        "id": 8,
-        "image_url": "https://cdn.mobygames.com/covers/3483990-dark-souls-remastered-xbox-one-front-cover.jpg",
-        "name": "Dark Souls Remastered",
-        "storage_size": 4.0
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Dead-Cells-1333359.html",
-        "genre": "Acción, Plataformas",
-        "id": 9,
-        "image_url": "https://cdn.mobygames.com/covers/3452371-dead-cells-windows-apps-front-cover.jpg",
-        "name": "Dead Cells",
-        "storage_size": 2.4
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Diablo-II-Resurrected--2042555.html",
-        "genre": "Acción, Aventura, Rol (RPG)",
-        "id": 10,
-        "image_url": "https://cdn.mobygames.com/covers/10267726-diablo-ii-resurrected-xbox-one-front-cover.jpg",
-        "name": "Diablo II Resurrected",
-        "storage_size": 8.4
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Diablo-III-Eternal-Collection-1417875.html",
-        "genre": "Acción, Aventura, Rol (RPG)",
-        "id": 11,
-        "image_url": "https://cdn.mobygames.com/covers/2650528-diablo-iii-eternal-collection-xbox-one-front-cover.jpg",
-        "name": "Diablo III Eternal Collection",
-        "storage_size": 16.6
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Don-t-Starve-Together-2090479.html",
-        "genre": "Aventura",
-        "id": 12,
-        "image_url": "https://cdn.mobygames.com/covers/3235452-dont-starve-together-xbox-one-front-cover.png",
-        "name": "Don’t Starve Together",
-        "storage_size": 5.4
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Gang-Beasts-2018249.html",
-        "genre": "Acción, Lucha",
-        "id": 13,
-        "image_url": "https://cdn.mobygames.com/covers/7412014-gang-beasts-xbox-one-front-cover.png",
-        "name": "Gang Beasts",
-        "storage_size": 3.4
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Grand-Theft-Auto-The-Trilogy-The-Definitive-Edition-2064540.html",
-        "genre": "Acción, Aventura",
-        "id": 14,
-        "image_url": "https://cdn.mobygames.com/covers/18022212-grand-theft-auto-san-andreas-the-definitive-edition-iphone-front.png",
-        "name": "Grand Theft Auto San Andreas The Definitive Edition",
-        "storage_size": 3.5
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Hades-1821819.html",
-        "genre": "Acción, Aventura, Rol (RPG)",
-        "id": 15,
-        "image_url": "https://cdn.mobygames.com/covers/10502739-hades-nintendo-switch-front-cover.png",
-        "name": "Hades",
-        "storage_size": 5.8
-    },
-    {
-        "eshop_link": "https://store.nintendo.es/es/hades-ii-nintendo-switch-2-edition-P00168",
-        "genre": "Acción, Aventura, Rol (RPG)",
-        "id": 16,
-        "image_url": "https://cdn.mobygames.com/covers/20630699-hades-ii-nintendo-switch-front-cover.jpg",
-        "name": "Hades II",
-        "storage_size": 6.6
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Hogwarts-Legacy-2466200.html",
-        "genre": "Rol (RPG)",
-        "id": 17,
-        "image_url": "https://cdn.mobygames.com/covers/11321713-hogwarts-legacy-xbox-one-front-cover.jpg",
-        "name": "Hogwarts Legacy",
-        "storage_size": 17.1
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Hollow-Knight-1125772.html",
-        "genre": "Acción, Plataformas, Aventura",
-        "id": 18,
-        "image_url": "https://cdn.mobygames.com/covers/2205744-hollow-knight-windows-apps-front-cover.jpg",
-        "name": "Hollow Knight",
-        "storage_size": 5.3
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Hollow-Knight-Silksong-1575920.html",
-        "genre": "Plataformas",
-        "id": 19,
-        "image_url": "https://cdn.mobygames.com/covers/20548218-hollow-knight-silksong-windows-apps-front-cover.png",
-        "name": "Hollow Knight Silksong",
-        "storage_size": 2.8
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/LEGO-Harry-Potter-Collection-1447078.html",
-        "genre": "Acción, Aventura",
-        "id": 20,
-        "image_url": "https://cdn.mobygames.com/covers/3790770-lego-harry-potter-collection-xbox-one-front-cover.jpg",
-        "name": "LEGO Harry Potter Collection",
-        "storage_size": 12.1
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/es-es/Juegos/Juegos-de-Nintendo-Switch/LEGO-Horizon-Adventures--2670620.html",
-        "genre": "Acción, Aventura",
-        "id": 21,
-        "image_url": "https://cdn.mobygames.com/covers/19370172-lego-horizon-adventures-windows-front-cover.jpg",
-        "name": "LEGO Horizon Adventure",
-        "storage_size": 7.3
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Life-is-Strange-Arcadia-Bay-Collection-1987415.html",
-        "genre": "Acción, Aventura",
-        "id": 22,
-        "image_url": "https://cdn.mobygames.com/covers/10633136-life-is-strange-remastered-stadia-front-cover.jpg",
-        "name": "Life Is Strange Remastered",
-        "storage_size": 15.0
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Little-Nightmares-Complete-Edition-1347594.html",
-        "genre": "Acción, Puzle, Aventura",
-        "id": 23,
-        "image_url": "https://cdn.mobygames.com/covers/2399418-little-nightmares-playstation-4-front-cover.jpg",
-        "name": "Little Nightmares",
-        "storage_size": 3.1
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Little-Nightmares-II-1891827.html",
-        "genre": "Puzle, Plataformas, Aventura",
-        "id": 24,
-        "image_url": "https://cdn.mobygames.com/covers/9719941-little-nightmares-ii-xbox-one-front-cover.jpg",
-        "name": "Little Nightmares II",
-        "storage_size": 6.6
-    },
-    {
-        "eshop_link": "https://www.nintendo.com/us/store/products/little-nightmares-iii-switch-2/",
-        "genre": "Plataformas, Aventura",
-        "id": 25,
-        "image_url": "https://cdn.mobygames.com/covers/21771083-little-nightmares-iii-windows-apps-front-cover.png",
-        "name": "Little Nightmares III",
-        "storage_size": 9.5
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html",
-        "genre": "Fiesta, Carreras",
-        "id": 26,
-        "image_url": "https://cdn.mobygames.com/covers/10074207-mario-kart-8-deluxe-nintendo-switch-front-cover.jpg",
-        "name": "Mario Kart 8 Deluxe",
-        "storage_size": 11.3
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/New-Super-Mario-Bros-U-Deluxe-1438640.html",
-        "genre": "Plataformas",
-        "id": 27,
-        "image_url": "https://cdn.mobygames.com/covers/9943253-new-super-mario-bros-u-deluxe-nintendo-switch-front-cover.jpg",
-        "name": "New Super Mario Bros U Deluxe",
-        "storage_size": 2.5
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/NieR-Automata-The-End-of-YoRHa-Edition-2232461.html",
-        "genre": "Acción, Rol (RPG)",
-        "id": 28,
-        "image_url": "https://cdn.mobygames.com/covers/2045693-nier-automata-playstation-4-front-cover.jpg",
-        "name": "NieR Automata The End of YoRHa Edition",
-        "storage_size": 10.9
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Nintendo-Entertainment-System-Nintendo-Switch-Online-1434614.html",
-        "genre": "Otros",
-        "id": 29,
-        "image_url": "https://cdn.mobygames.com/covers/2310269-nintendo-entertainment-system-nes-classic-edition-dedicated-cons.jpg",
-        "name": "Nintendo Entertainment System",
-        "storage_size": 0.1
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Nintendo-Switch-Sports-2168292.html",
-        "genre": "Fiesta, Deportes, Fútbol",
-        "id": 30,
-        "image_url": "https://cdn.mobygames.com/covers/11002241-nintendo-switch-sports-nintendo-switch-front-cover.jpg",
-        "name": "Nintendo Switch Sports",
-        "storage_size": 3.2
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/No-Man-s-Sky-2169216.html",
-        "genre": "Acción, Aventura, Simulación, Rol (RPG)",
-        "id": 31,
-        "image_url": "https://cdn.mobygames.com/covers/11053231-no-mans-sky-nintendo-switch-front-cover.jpg",
-        "name": "No Man's Sky",
-        "storage_size": 6.8
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/OneShot-World-Machine-Edition-2210535.html",
-        "genre": "Aventura, Rol (RPG)",
-        "id": 32,
-        "image_url": "https://cdn.mobygames.com/covers/10937373-oneshot-xbox-one-front-cover.jpg",
-        "name": "OneShot World Machine Edition",
-        "storage_size": 0.5
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Overcooked-All-You-Can-Eat-1933818.html",
-        "genre": "Simulación, Estrategia",
-        "id": 33,
-        "image_url": "https://cdn.mobygames.com/covers/9456149-overcooked-all-you-can-eat-xbox-series-front-cover.jpg",
-        "name": "Overcooked! All You Can Eat",
-        "storage_size": 15.5
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Party-Hard-1465228.html",
-        "genre": "Puzle, Simulación, Arcade",
-        "id": 34,
-        "image_url": "https://cdn.mobygames.com/covers/1749952-party-hard-xbox-one-front-cover.png",
-        "name": "Party Hard",
-        "storage_size": 1.1
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Party-Hard-2-1839408.html",
-        "genre": "Acción, Aventura, Simulación, Estrategia",
-        "id": 35,
-        "image_url": "https://cdn.mobygames.com/covers/9515342-party-hard-2-xbox-one-front-cover.jpg",
-        "name": "Party Hard 2",
-        "storage_size": 5.0
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Persona-5-Royal-2232781.html",
-        "genre": "Rol (RPG)",
-        "id": 36,
-        "image_url": "https://cdn.mobygames.com/covers/11199918-persona-5-royal-windows-apps-front-cover.jpg",
-        "name": "Persona 5 Royal",
-        "storage_size": 14.2
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/PICO-PARK-1571671.html",
-        "genre": "Acción, Puzle",
-        "id": 37,
-        "image_url": "https://cdn.mobygames.com/covers/7666650-pico-park-nintendo-switch-front-cover.jpg",
-        "name": "PICO PARK",
-        "storage_size": 0.1
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/es-es/Juegos/Programas-descargables-Nintendo-Switch/PICO-PARK-2-2639640.html",
-        "genre": "Puzle, Plataformas, Comunicación",
-        "id": 38,
-        "image_url": "https://cdn.mobygames.com/covers/20178019-pico-park-2-windows-apps-front-cover.png",
-        "name": "PICO PARK 2",
-        "storage_size": 0.3
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/Plants-vs-Zombies-La-Batalla-de-Neighborville-Edicion-Completa-1923918.html",
-        "genre": "Acción, Aventura, Disparos (Shooter)",
-        "id": 39,
-        "image_url": "https://cdn.mobygames.com/covers/20637527-plants-vs-zombies-replanted-xbox-one-front-cover.png",
-        "name": "Plants vs. Zombies Replanted",
-        "storage_size": 6.4
-    },
-    {
-        "eshop_link": "https://store.nintendo.es/es/leyendas-pokemon-arceus-000000000010007208",
-        "genre": "Rol (RPG)",
-        "id": 40,
-        "image_url": "https://cdn.mobygames.com/covers/10582342-pokemon-legends-arceus-nintendo-switch-front-cover.jpg",
-        "name": "Pokemon Legends Arceus",
-        "storage_size": 6.0
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Rocket-League--1234174.html",
-        "genre": "Acción, Deportes, Carreras",
-        "id": 41,
-        "image_url": "https://cdn.mobygames.com/covers/3195496-rocket-league-xbox-one-front-cover.jpg",
-        "name": "Rocket League",
-        "storage_size": 22.3
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Saints-Row-IV-Re-Elected--1716184.html",
-        "genre": "Acción, Disparos (Shooter)",
-        "id": 42,
-        "image_url": "https://cdn.mobygames.com/covers/2296230-saints-row-iv-re-elected-gat-out-of-hell-xbox-one-front-cover.png",
-        "name": "Saints Row IV Re-Elected",
-        "storage_size": 8.6
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Sifu-2264655.html",
-        "genre": "Acción, Lucha",
-        "id": 43,
-        "image_url": "https://cdn.mobygames.com/covers/16978794-sifu-windows-apps-front-cover.jpg",
-        "name": "Sifu",
-        "storage_size": 10.3
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Slime-Rancher-Plortable-Edition-2018257.html",
-        "genre": "Acción en primera persona (FPS), Aventura, Simulación",
-        "id": 44,
-        "image_url": "https://cdn.mobygames.com/covers/10376727-slime-rancher-plortable-edition-nintendo-switch-front-cover.jpg",
-        "name": "Slime Rancher",
-        "storage_size": 1.1
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Stardew-Valley-1287587.html",
-        "genre": "Simulación, Rol (RPG)",
-        "id": 45,
-        "image_url": "https://cdn.mobygames.com/covers/1647843-stardew-valley-ps-vita-front-cover.jpg",
-        "name": "Stardew Valley",
-        "storage_size": 1.6
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/es-es/Juegos/Juegos-de-Nintendo-Switch/Super-Mario-Party-Jamboree-2591147.html",
-        "genre": "Fiesta, Tablero",
-        "id": 46,
-        "image_url": "https://cdn.mobygames.com/covers/19520235-super-mario-party-jamboree-nintendo-switch-front-cover.jpg",
-        "name": "Super Mario Party Jamboree",
-        "storage_size": 5.4
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/The-Elder-Scrolls-V-Skyrim--1177455.html",
-        "genre": "Acción, Rol (RPG)",
-        "id": 47,
-        "image_url": "https://cdn.mobygames.com/covers/17467715-the-elder-scrolls-v-skyrim-special-edition-nintendo-switch-front.jpg",
-        "name": "The Elder Scrolls V Skyrim",
-        "storage_size": 12.9
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/The-Witcher-3-Wild-Hunt-Complete-Edition-1575086.html",
-        "genre": "Rol (RPG)",
-        "id": 48,
-        "image_url": "https://cdn.mobygames.com/covers/848907-the-witcher-3-wild-hunt-windows-front-cover.jpg",
-        "name": "The Witcher 3 Wild Hunt",
-        "storage_size": 39.1
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Tony-Hawk-s-Pro-Skater-1-2-1987422.html",
-        "genre": "Acción, Deportes, Otros",
-        "id": 49,
-        "image_url": "https://cdn.mobygames.com/covers/10350202-tony-hawks-pro-skater-1-2-xbox-one-front-cover.jpg",
-        "name": "Tony Hawks Pro Skater 1 Plus 2",
-        "storage_size": 12.2
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/UNDERTALE-1347694.html",
-        "genre": "Rol (RPG)",
-        "id": 50,
-        "image_url": "https://cdn.mobygames.com/covers/2685475-undertale-playstation-4-front-cover.png",
-        "name": "Undertale",
-        "storage_size": 0.2
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Unravel-Two-1523089.html",
-        "genre": "Puzle, Plataformas, Aventura",
-        "id": 51,
-        "image_url": "https://cdn.mobygames.com/covers/3597333-unravel-two-xbox-one-front-cover.jpg",
-        "name": "Unravel Two",
-        "storage_size": 2.8
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Untitled-Goose-Game-1437769.html",
-        "genre": "Animales, Simulación",
-        "id": 52,
-        "image_url": "https://cdn.mobygames.com/covers/8604201-untitled-goose-game-xbox-one-front-cover.jpg",
-        "name": "Untitled Goose Game",
-        "storage_size": 1.1
-    },
-    {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Xenoblade-Chronicles-3-2168340.html",
-        "genre": "Aventura, Rol (RPG)",
-        "id": 53,
-        "image_url": "https://cdn.mobygames.com/covers/17157857-xenoblade-chronicles-3-nintendo-switch-front-cover.jpg",
-        "name": "Xenoblade Chronicles 3",
-        "storage_size": 14.4
-    },
-    {
-        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/EA-SPORTS-FC-26-2874004.html",
-        "genre": "Deportes, Simulación",
-        "id": 54,
-        "image_url": "https://cdn.mobygames.com/covers/20634015-fc-26-xbox-one-front-cover.png",
-        "name": "FIFA 26",
-        "storage_size": 30.9
-    },
-    {
-        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/It-Takes-Two-2265759.html",
-        "genre": "Acción, Puzle, Plataformas, Aventura",
-        "id": 55,
-        "image_url": "https://cdn.mobygames.com/covers/5918747-it-takes-two-windows-front-cover.jpg",
-        "name": "It Takes Two",
-        "storage_size": 9.5
-    },
-    {
-        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html",
-        "genre": "Acción, Aventura",
-        "id": 56,
-        "image_url": "https://cdn.mobygames.com/covers/17111253-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-front-c.jpg",
-        "name": "The Legend of Zelda: Tears of the Kingdom",
-        "storage_size": "16 GB"
-    },
-    {
-        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Trek-to-Yomi-2331379.html",
-        "genre": "Acción",
-        "id": 57,
-        "image_url": "https://cdn.mobygames.com/covers/10591971-trek-to-yomi-windows-apps-front-cover.jpg",
-        "name": "Trek to Yomi",
-        "storage_size": "4 GB"
-    },
-    {
-        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Rayman-Legends-Definitive-Edition-1176776.html",
-        "genre": "Plataformas",
-        "id": 58,
-        "image_url": "https://cdn.mobygames.com/covers/7043534-rayman-legends-windows-front-cover.jpg",
-        "name": "Rayman Legends: Definitive Edition",
-        "storage_size": "3 GB"
-    },
-    {
-        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Empire-of-Sin-1575694.html",
-        "genre": "Estrategia",
-        "id": 59,
-        "image_url": "https://cdn.mobygames.com/covers/9636708-empire-of-sin-windows-apps-front-cover.jpg",
-        "name": "Empire of Sin",
-        "storage_size": "10 GB"
-    }
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Assassin-s-Creed-III-Remastered-1514676.html",
+		"genre": "Acción",
+		"id": 1,
+		"image_url": "https://cdn.mobygames.com/covers/7534933-assassins-creed-iii-remastered-xbox-one-front-cover.png",
+		"name": "Assassin's Creed III Remastered",
+		"storage_size": 14.7
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/ASSASSIN-S-CREED-THE-EZIO-COLLECTION-2171132.html",
+		"genre": "Acción, Aventura",
+		"id": 2,
+		"image_url": "https://cdn.mobygames.com/covers/3233379-assassins-creed-the-ezio-collection-xbox-one-front-cover.png",
+		"name": "Assassins Creed The Ezio Collection",
+		"storage_size": 7.4
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Assassin-s-Creed-The-Rebel-Collection-1683980.html",
+		"genre": "Acción, Aventura",
+		"id": 3,
+		"image_url": "https://cdn.mobygames.com/covers/8026029-assassins-creed-the-rebel-collection-nintendo-switch-front-cover.png",
+		"name": "Assassins Creed The Rebel Collection",
+		"storage_size": 11.9
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Bastion-1430547.html",
+		"genre": "Acción, Aventura, Rol (RPG)",
+		"id": 4,
+		"image_url": "https://cdn.mobygames.com/covers/1760689-bastion-windows-front-cover.jpg",
+		"name": "Bastion",
+		"storage_size": 1.0
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/CRISIS-CORE-FINAL-FANTASY-VII-REUNION-2265466.html",
+		"genre": "Rol (RPG)",
+		"id": 5,
+		"image_url": "https://cdn.mobygames.com/covers/11184594-crisis-core-final-fantasy-vii-reunion-xbox-one-front-cover.jpg",
+		"name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+		"storage_size": 14.4
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Cult-of-the-Lamb-2210770.html",
+		"genre": "Acción, Aventura, Estrategia",
+		"id": 6,
+		"image_url": "https://cdn.mobygames.com/covers/10979806-cult-of-the-lamb-xbox-one-front-cover.jpg",
+		"name": "Cult of the Lamb",
+		"storage_size": 1.9
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Cuphead-1532319.html",
+		"genre": "Acción, Plataformas, Arcade, Disparos (Shooter)",
+		"id": 7,
+		"image_url": "https://cdn.mobygames.com/covers/1122773-cuphead-windows-apps-front-cover.jpg",
+		"name": "Cuphead",
+		"storage_size": 3.5
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Dark-Souls-Remastered-1325790.html",
+		"genre": "Acción, Rol (RPG)",
+		"id": 8,
+		"image_url": "https://cdn.mobygames.com/covers/3483990-dark-souls-remastered-xbox-one-front-cover.jpg",
+		"name": "Dark Souls Remastered",
+		"storage_size": 4.0
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Dead-Cells-1333359.html",
+		"genre": "Acción, Plataformas",
+		"id": 9,
+		"image_url": "https://cdn.mobygames.com/covers/3452371-dead-cells-windows-apps-front-cover.jpg",
+		"name": "Dead Cells",
+		"storage_size": 2.4
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Diablo-II-Resurrected--2042555.html",
+		"genre": "Acción, Aventura, Rol (RPG)",
+		"id": 10,
+		"image_url": "https://cdn.mobygames.com/covers/10267726-diablo-ii-resurrected-xbox-one-front-cover.jpg",
+		"name": "Diablo II Resurrected",
+		"storage_size": 8.4
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Diablo-III-Eternal-Collection-1417875.html",
+		"genre": "Acción, Aventura, Rol (RPG)",
+		"id": 11,
+		"image_url": "https://cdn.mobygames.com/covers/2650528-diablo-iii-eternal-collection-xbox-one-front-cover.jpg",
+		"name": "Diablo III Eternal Collection",
+		"storage_size": 16.6
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Don-t-Starve-Together-2090479.html",
+		"genre": "Aventura",
+		"id": 12,
+		"image_url": "https://cdn.mobygames.com/covers/3235452-dont-starve-together-xbox-one-front-cover.png",
+		"name": "Don’t Starve Together",
+		"storage_size": 5.4
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Gang-Beasts-2018249.html",
+		"genre": "Acción, Lucha",
+		"id": 13,
+		"image_url": "https://cdn.mobygames.com/covers/7412014-gang-beasts-xbox-one-front-cover.png",
+		"name": "Gang Beasts",
+		"storage_size": 3.4
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Grand-Theft-Auto-The-Trilogy-The-Definitive-Edition-2064540.html",
+		"genre": "Acción, Aventura",
+		"id": 14,
+		"image_url": "https://cdn.mobygames.com/covers/18022212-grand-theft-auto-san-andreas-the-definitive-edition-iphone-front.png",
+		"name": "Grand Theft Auto San Andreas The Definitive Edition",
+		"storage_size": 3.5
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Hades-1821819.html",
+		"genre": "Acción, Aventura, Rol (RPG)",
+		"id": 15,
+		"image_url": "https://cdn.mobygames.com/covers/10502739-hades-nintendo-switch-front-cover.png",
+		"name": "Hades",
+		"storage_size": 5.8
+	},
+	{
+		"eshop_link": "https://store.nintendo.es/es/hades-ii-nintendo-switch-2-edition-P00168",
+		"genre": "Acción, Aventura, Rol (RPG)",
+		"id": 16,
+		"image_url": "https://cdn.mobygames.com/covers/20630699-hades-ii-nintendo-switch-front-cover.jpg",
+		"name": "Hades II",
+		"storage_size": 6.6
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Hogwarts-Legacy-2466200.html",
+		"genre": "Rol (RPG)",
+		"id": 17,
+		"image_url": "https://cdn.mobygames.com/covers/11321713-hogwarts-legacy-xbox-one-front-cover.jpg",
+		"name": "Hogwarts Legacy",
+		"storage_size": 17.1
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Hollow-Knight-1125772.html",
+		"genre": "Acción, Plataformas, Aventura",
+		"id": 18,
+		"image_url": "https://cdn.mobygames.com/covers/2205744-hollow-knight-windows-apps-front-cover.jpg",
+		"name": "Hollow Knight",
+		"storage_size": 5.3
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Hollow-Knight-Silksong-1575920.html",
+		"genre": "Plataformas",
+		"id": 19,
+		"image_url": "https://cdn.mobygames.com/covers/20548218-hollow-knight-silksong-windows-apps-front-cover.png",
+		"name": "Hollow Knight Silksong",
+		"storage_size": 2.8
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/LEGO-Harry-Potter-Collection-1447078.html",
+		"genre": "Acción, Aventura",
+		"id": 20,
+		"image_url": "https://cdn.mobygames.com/covers/3790770-lego-harry-potter-collection-xbox-one-front-cover.jpg",
+		"name": "LEGO Harry Potter Collection",
+		"storage_size": 12.1
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/es-es/Juegos/Juegos-de-Nintendo-Switch/LEGO-Horizon-Adventures--2670620.html",
+		"genre": "Acción, Aventura",
+		"id": 21,
+		"image_url": "https://cdn.mobygames.com/covers/19370172-lego-horizon-adventures-windows-front-cover.jpg",
+		"name": "LEGO Horizon Adventure",
+		"storage_size": 7.3
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Life-is-Strange-Arcadia-Bay-Collection-1987415.html",
+		"genre": "Acción, Aventura",
+		"id": 22,
+		"image_url": "https://cdn.mobygames.com/covers/10633136-life-is-strange-remastered-stadia-front-cover.jpg",
+		"name": "Life Is Strange Remastered",
+		"storage_size": 15.0
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Little-Nightmares-Complete-Edition-1347594.html",
+		"genre": "Acción, Puzle, Aventura",
+		"id": 23,
+		"image_url": "https://cdn.mobygames.com/covers/2399418-little-nightmares-playstation-4-front-cover.jpg",
+		"name": "Little Nightmares",
+		"storage_size": 3.1
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Little-Nightmares-II-1891827.html",
+		"genre": "Puzle, Plataformas, Aventura",
+		"id": 24,
+		"image_url": "https://cdn.mobygames.com/covers/9719941-little-nightmares-ii-xbox-one-front-cover.jpg",
+		"name": "Little Nightmares II",
+		"storage_size": 6.6
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/us/store/products/little-nightmares-iii-switch-2/",
+		"genre": "Plataformas, Aventura",
+		"id": 25,
+		"image_url": "https://cdn.mobygames.com/covers/21771083-little-nightmares-iii-windows-apps-front-cover.png",
+		"name": "Little Nightmares III",
+		"storage_size": 9.5
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html",
+		"genre": "Fiesta, Carreras",
+		"id": 26,
+		"image_url": "https://cdn.mobygames.com/covers/10074207-mario-kart-8-deluxe-nintendo-switch-front-cover.jpg",
+		"name": "Mario Kart 8 Deluxe",
+		"storage_size": 11.3
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/New-Super-Mario-Bros-U-Deluxe-1438640.html",
+		"genre": "Plataformas",
+		"id": 27,
+		"image_url": "https://cdn.mobygames.com/covers/9943253-new-super-mario-bros-u-deluxe-nintendo-switch-front-cover.jpg",
+		"name": "New Super Mario Bros U Deluxe",
+		"storage_size": 2.5
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/NieR-Automata-The-End-of-YoRHa-Edition-2232461.html",
+		"genre": "Acción, Rol (RPG)",
+		"id": 28,
+		"image_url": "https://cdn.mobygames.com/covers/2045693-nier-automata-playstation-4-front-cover.jpg",
+		"name": "NieR Automata The End of YoRHa Edition",
+		"storage_size": 10.9
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Nintendo-Entertainment-System-Nintendo-Switch-Online-1434614.html",
+		"genre": "Otros",
+		"id": 29,
+		"image_url": "https://cdn.mobygames.com/covers/2310269-nintendo-entertainment-system-nes-classic-edition-dedicated-cons.jpg",
+		"name": "Nintendo Entertainment System",
+		"storage_size": 0.1
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Nintendo-Switch-Sports-2168292.html",
+		"genre": "Fiesta, Deportes, Fútbol",
+		"id": 30,
+		"image_url": "https://cdn.mobygames.com/covers/11002241-nintendo-switch-sports-nintendo-switch-front-cover.jpg",
+		"name": "Nintendo Switch Sports",
+		"storage_size": 3.2
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/No-Man-s-Sky-2169216.html",
+		"genre": "Acción, Aventura, Simulación, Rol (RPG)",
+		"id": 31,
+		"image_url": "https://cdn.mobygames.com/covers/11053231-no-mans-sky-nintendo-switch-front-cover.jpg",
+		"name": "No Man's Sky",
+		"storage_size": 6.8
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/OneShot-World-Machine-Edition-2210535.html",
+		"genre": "Aventura, Rol (RPG)",
+		"id": 32,
+		"image_url": "https://cdn.mobygames.com/covers/10937373-oneshot-xbox-one-front-cover.jpg",
+		"name": "OneShot World Machine Edition",
+		"storage_size": 0.5
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Overcooked-All-You-Can-Eat-1933818.html",
+		"genre": "Simulación, Estrategia",
+		"id": 33,
+		"image_url": "https://cdn.mobygames.com/covers/9456149-overcooked-all-you-can-eat-xbox-series-front-cover.jpg",
+		"name": "Overcooked! All You Can Eat",
+		"storage_size": 15.5
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Party-Hard-1465228.html",
+		"genre": "Puzle, Simulación, Arcade",
+		"id": 34,
+		"image_url": "https://cdn.mobygames.com/covers/1749952-party-hard-xbox-one-front-cover.png",
+		"name": "Party Hard",
+		"storage_size": 1.1
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Party-Hard-2-1839408.html",
+		"genre": "Acción, Aventura, Simulación, Estrategia",
+		"id": 35,
+		"image_url": "https://cdn.mobygames.com/covers/9515342-party-hard-2-xbox-one-front-cover.jpg",
+		"name": "Party Hard 2",
+		"storage_size": 5.0
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Persona-5-Royal-2232781.html",
+		"genre": "Rol (RPG)",
+		"id": 36,
+		"image_url": "https://cdn.mobygames.com/covers/11199918-persona-5-royal-windows-apps-front-cover.jpg",
+		"name": "Persona 5 Royal",
+		"storage_size": 14.2
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/PICO-PARK-1571671.html",
+		"genre": "Acción, Puzle",
+		"id": 37,
+		"image_url": "https://cdn.mobygames.com/covers/7666650-pico-park-nintendo-switch-front-cover.jpg",
+		"name": "PICO PARK",
+		"storage_size": 0.1
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/es-es/Juegos/Programas-descargables-Nintendo-Switch/PICO-PARK-2-2639640.html",
+		"genre": "Puzle, Plataformas, Comunicación",
+		"id": 38,
+		"image_url": "https://cdn.mobygames.com/covers/20178019-pico-park-2-windows-apps-front-cover.png",
+		"name": "PICO PARK 2",
+		"storage_size": 0.3
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/Plants-vs-Zombies-La-Batalla-de-Neighborville-Edicion-Completa-1923918.html",
+		"genre": "Acción, Aventura, Disparos (Shooter)",
+		"id": 39,
+		"image_url": "https://cdn.mobygames.com/covers/20637527-plants-vs-zombies-replanted-xbox-one-front-cover.png",
+		"name": "Plants vs. Zombies Replanted",
+		"storage_size": 6.4
+	},
+	{
+		"eshop_link": "https://store.nintendo.es/es/leyendas-pokemon-arceus-000000000010007208",
+		"genre": "Rol (RPG)",
+		"id": 40,
+		"image_url": "https://cdn.mobygames.com/covers/10582342-pokemon-legends-arceus-nintendo-switch-front-cover.jpg",
+		"name": "Pokemon Legends Arceus",
+		"storage_size": 6.0
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Rocket-League--1234174.html",
+		"genre": "Acción, Deportes, Carreras",
+		"id": 41,
+		"image_url": "https://cdn.mobygames.com/covers/3195496-rocket-league-xbox-one-front-cover.jpg",
+		"name": "Rocket League",
+		"storage_size": 22.3
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Saints-Row-IV-Re-Elected--1716184.html",
+		"genre": "Acción, Disparos (Shooter)",
+		"id": 42,
+		"image_url": "https://cdn.mobygames.com/covers/2296230-saints-row-iv-re-elected-gat-out-of-hell-xbox-one-front-cover.png",
+		"name": "Saints Row IV Re-Elected",
+		"storage_size": 8.6
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Sifu-2264655.html",
+		"genre": "Acción, Lucha",
+		"id": 43,
+		"image_url": "https://cdn.mobygames.com/covers/16978794-sifu-windows-apps-front-cover.jpg",
+		"name": "Sifu",
+		"storage_size": 10.3
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Slime-Rancher-Plortable-Edition-2018257.html",
+		"genre": "Acción en primera persona (FPS), Aventura, Simulación",
+		"id": 44,
+		"image_url": "https://cdn.mobygames.com/covers/10376727-slime-rancher-plortable-edition-nintendo-switch-front-cover.jpg",
+		"name": "Slime Rancher",
+		"storage_size": 1.1
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Stardew-Valley-1287587.html",
+		"genre": "Simulación, Rol (RPG)",
+		"id": 45,
+		"image_url": "https://cdn.mobygames.com/covers/1647843-stardew-valley-ps-vita-front-cover.jpg",
+		"name": "Stardew Valley",
+		"storage_size": 1.6
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/es-es/Juegos/Juegos-de-Nintendo-Switch/Super-Mario-Party-Jamboree-2591147.html",
+		"genre": "Fiesta, Tablero",
+		"id": 46,
+		"image_url": "https://cdn.mobygames.com/covers/19520235-super-mario-party-jamboree-nintendo-switch-front-cover.jpg",
+		"name": "Super Mario Party Jamboree",
+		"storage_size": 5.4
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/The-Elder-Scrolls-V-Skyrim--1177455.html",
+		"genre": "Acción, Rol (RPG)",
+		"id": 47,
+		"image_url": "https://cdn.mobygames.com/covers/17467715-the-elder-scrolls-v-skyrim-special-edition-nintendo-switch-front.jpg",
+		"name": "The Elder Scrolls V Skyrim",
+		"storage_size": 12.9
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/The-Witcher-3-Wild-Hunt-Complete-Edition-1575086.html",
+		"genre": "Rol (RPG)",
+		"id": 48,
+		"image_url": "https://cdn.mobygames.com/covers/848907-the-witcher-3-wild-hunt-windows-front-cover.jpg",
+		"name": "The Witcher 3 Wild Hunt",
+		"storage_size": 39.1
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Tony-Hawk-s-Pro-Skater-1-2-1987422.html",
+		"genre": "Acción, Deportes, Otros",
+		"id": 49,
+		"image_url": "https://cdn.mobygames.com/covers/10350202-tony-hawks-pro-skater-1-2-xbox-one-front-cover.jpg",
+		"name": "Tony Hawks Pro Skater 1 Plus 2",
+		"storage_size": 12.2
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/UNDERTALE-1347694.html",
+		"genre": "Rol (RPG)",
+		"id": 50,
+		"image_url": "https://cdn.mobygames.com/covers/2685475-undertale-playstation-4-front-cover.png",
+		"name": "Undertale",
+		"storage_size": 0.2
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Unravel-Two-1523089.html",
+		"genre": "Puzle, Plataformas, Aventura",
+		"id": 51,
+		"image_url": "https://cdn.mobygames.com/covers/3597333-unravel-two-xbox-one-front-cover.jpg",
+		"name": "Unravel Two",
+		"storage_size": 2.8
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Untitled-Goose-Game-1437769.html",
+		"genre": "Animales, Simulación",
+		"id": 52,
+		"image_url": "https://cdn.mobygames.com/covers/8604201-untitled-goose-game-xbox-one-front-cover.jpg",
+		"name": "Untitled Goose Game",
+		"storage_size": 1.1
+	},
+	{
+		"eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Xenoblade-Chronicles-3-2168340.html",
+		"genre": "Aventura, Rol (RPG)",
+		"id": 53,
+		"image_url": "https://cdn.mobygames.com/covers/17157857-xenoblade-chronicles-3-nintendo-switch-front-cover.jpg",
+		"name": "Xenoblade Chronicles 3",
+		"storage_size": 14.4
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/EA-SPORTS-FC-26-2874004.html",
+		"genre": "Deportes, Simulación",
+		"id": 54,
+		"image_url": "https://cdn.mobygames.com/covers/20634015-fc-26-xbox-one-front-cover.png",
+		"name": "FIFA 26",
+		"storage_size": 30.9
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/It-Takes-Two-2265759.html",
+		"genre": "Acción, Puzle, Plataformas, Aventura",
+		"id": 55,
+		"image_url": "https://cdn.mobygames.com/covers/5918747-it-takes-two-windows-front-cover.jpg",
+		"name": "It Takes Two",
+		"storage_size": 9.5
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html",
+		"genre": "Acción, Aventura",
+		"id": 56,
+		"image_url": "https://cdn.mobygames.com/covers/17111253-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-front-c.jpg",
+		"name": "The Legend of Zelda: Tears of the Kingdom",
+		"storage_size": 16
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Trek-to-Yomi-2331379.html",
+		"genre": "Acción",
+		"id": 57,
+		"image_url": "https://cdn.mobygames.com/covers/10591971-trek-to-yomi-windows-apps-front-cover.jpg",
+		"name": "Trek to Yomi",
+		"storage_size": 4
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Rayman-Legends-Definitive-Edition-1176776.html",
+		"genre": "Plataformas",
+		"id": 58,
+		"image_url": "https://cdn.mobygames.com/covers/7043534-rayman-legends-windows-front-cover.jpg",
+		"name": "Rayman Legends: Definitive Edition",
+		"storage_size": 3
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Empire-of-Sin-1575694.html",
+		"genre": "Estrategia",
+		"id": 59,
+		"image_url": "https://cdn.mobygames.com/covers/9636708-empire-of-sin-windows-apps-front-cover.jpg",
+		"name": "Empire of Sin",
+		"storage_size": 10
+	}
 ]
