@@ -625,6 +625,37 @@ section {
   transform: scale(1.05);
 }
 
+.sort-dropdown {
+  position: relative;
+  display: inline-block;
+}
+.sort-dropdown .sort-options {
+  position: absolute;
+  top: 60px;
+  right: 0;
+  background: rgba(85, 80, 80, 0.95);
+  border: solid 1px rgba(85, 80, 80, 0.15);
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(85, 80, 80, 0.05);
+  padding: 0.5rem 0;
+  min-width: 160px;
+  z-index: 10;
+  backdrop-filter: blur(8px);
+}
+.sort-dropdown .sort-options li {
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+  color: #cccccc;
+  font-size: 0.95rem;
+}
+.sort-dropdown .sort-options li:hover {
+  background-color: rgba(74, 161, 202, 0.5);
+  color: white;
+}
+.sort-dropdown .sort-options.hidden {
+  display: none;
+}
+
 /* =====================
   	 GAMES GRID 
 ===================== */

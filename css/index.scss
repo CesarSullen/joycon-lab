@@ -189,6 +189,41 @@
 	}
 }
 
+.sort-dropdown {
+	position: relative;
+	display: inline-block;
+
+	.sort-options {
+		position: absolute;
+		top: 60px;
+		right: 0;
+		background: rgba($dark-color, 0.95);
+		border: $border-general;
+		border-radius: $border-radius-general;
+		box-shadow: $box-shadow-general;
+		padding: 0.5rem 0;
+		min-width: 160px;
+		z-index: 10;
+		backdrop-filter: blur(8px);
+
+		li {
+			padding: 0.6rem 1rem;
+			cursor: pointer;
+			color: $light-color;
+			font-size: 0.95rem;
+
+			&:hover {
+				background-color: rgba($accent-color, 0.5);
+				color: white;
+			}
+		}
+
+		&.hidden {
+			display: none;
+		}
+	}
+}
+
 /* =====================
   	 GAMES GRID 
 ===================== */

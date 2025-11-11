@@ -438,5 +438,37 @@
         "image_url": "https://cdn.mobygames.com/covers/5918747-it-takes-two-windows-front-cover.jpg",
         "name": "It Takes Two",
         "storage_size": 9.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html",
+        "genre": "Acción, Aventura",
+        "id": 56,
+        "image_url": "https://cdn.mobygames.com/covers/17111253-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-front-c.jpg",
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "storage_size": "16 GB"
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Trek-to-Yomi-2331379.html",
+        "genre": "Acción",
+        "id": 57,
+        "image_url": "https://cdn.mobygames.com/covers/10591971-trek-to-yomi-windows-apps-front-cover.jpg",
+        "name": "Trek to Yomi",
+        "storage_size": "4 GB"
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Rayman-Legends-Definitive-Edition-1176776.html",
+        "genre": "Plataformas",
+        "id": 58,
+        "image_url": "https://cdn.mobygames.com/covers/7043534-rayman-legends-windows-front-cover.jpg",
+        "name": "Rayman Legends: Definitive Edition",
+        "storage_size": "3 GB"
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Empire-of-Sin-1575694.html",
+        "genre": "Estrategia",
+        "id": 59,
+        "image_url": "https://cdn.mobygames.com/covers/9636708-empire-of-sin-windows-apps-front-cover.jpg",
+        "name": "Empire of Sin",
+        "storage_size": "10 GB"
     }
 ]
