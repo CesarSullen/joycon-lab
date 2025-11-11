@@ -17,20 +17,66 @@
 			href="./assets/icons/logo.png"
 		/>
 		<link rel="stylesheet" href="./css/style.css" />
+
 		<title>Joy-Con Lab</title>
 	</head>
 
 	<body id="body">
-		<header id="header" class="header">
-			<div class="header-content">
-				<img src="./assets/icons/logo-text.png" class="header-logo" />
+		<hero id="hero" class="hero">
+			<div class="hero-shadow"></div>
+			<div class="hero-content">
+				<img src="./assets/icons/logo.png" class="hero-logo show-down" />
+
+				<div class="hero-text show-up">
+					<h1 class="hero-title">
+						Bienvenido a <span class="primary-color-text">Joy</span>-<span
+							class="secondary-color-text"
+							>Con</span
+						>
+						Lab
+					</h1>
+					<h2 class="hero-subtitle">Explora el catálogo de juegos</h2>
+				</div>
 
 				<div class="cta-section">
-					<button id="contact-btn" class="btn contact-btn">Contactar</button>
-					<button id="saved-btn" class="btn saved-btn">Guardados</button>
+					<a href="#hero-section" class="cta-link">
+						<img
+							class="cta-btn bounce-in"
+							src="./assets/icons/house.svg"
+							alt="Inicio"
+						/>
+					</a>
+
+					<a href="#catalog-section" class="cta-link">
+						<img
+							class="cta-btn bounce-in"
+							src="./assets/icons/game-controller.svg"
+							alt="Juegos"
+						/>
+					</a>
+
+					<a href="#about" class="cta-link" id="call-alert">
+						<img
+							class="cta-btn bounce-in"
+							src="./assets/icons/info.svg"
+							alt="Acerca de"
+						/>
+					</a>
+
+					<a
+						href="https://wa.me/5351643954?text=Hola,%20escriba%20su%20mensaje%20aquí."
+						target="_blank"
+						class="cta-link"
+					>
+						<img
+							class="cta-btn bounce-in"
+							src="./assets/icons/whatsapp-logo.svg"
+							alt="WhatsApp"
+						/>
+					</a>
 				</div>
 			</div>
-		</header>
+		</hero>
 
 		<div class="body-content">
 			<section id="filters-section" class="filters-section">
@@ -39,14 +85,14 @@
 						type="text"
 						id="search-bar"
 						class="search-bar"
-						placeholder="Buscar juegos..."
+						placeholder="Buscar juegos o géneros..."
 					/>
 
 					<button id="sort-btn" class="sort-btn">
 						<img src="./assets/icons/funnel-simple-bold.svg" alt="Filtrar" />
 					</button>
-					<!-- <div class="filter-dropdown">
-						<ul id="filter-options" class="filter-options hidden">
+					<!-- <div class="sort-dropdown">
+						<ul id="sort-options" class="sort-options hidden">
 							<li data-sort="name-asc">Nombre A–Z</li>
 							<li data-sort="name-desc">Nombre Z–A</li>
 							<li data-sort="size-asc">Tamaño ↑</li>

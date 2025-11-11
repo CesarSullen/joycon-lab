@@ -52,16 +52,29 @@ document.addEventListener("DOMContentLoaded", async () => {
 	}
 });
 
-document.addEventListener("DOMContentLoaded", () => {
-	const contactBtn = document.getElementById("contact-btn");
-	const savedBtn = document.getElementById("saved-btn");
+// Interception Observer
+const animatedElements = document.querySelectorAll(
+	".show-up, .show-down, .show-left, .show-right, .bounce-in, .rotate-left, .rotate-right"
+);
 
-	contactBtn.addEventListener("click", () => {
-		// Abrir WhatsApp con mensaje predefinido
-		window.open("https://wa.me/+5351643954?text=Hola", "_blank");
-	});
+const observer = new IntersectionObserver(
+	(entries, observer) => {
+		entries.forEach((entry) => {
+			if (entry.isIntersecting) {
+				entry.target.classList.add("animated");
+				observer.unobserve(entry.target);
+			}
+		});
+	},
+	{ root: null, rootMargin: "0px", threshold: 0.2 }
+);
 
-	savedBtn.addEventListener("click", () => {
-		alert("Función aún en desarrollo");
-	});
+animatedElements.forEach((el) => observer.observe(el));
+
+// Temporal
+const callAlert = document.getElementById("call-alert");
+
+callAlert.addEventListener("click", function (event) {
+	event.preventDefault();
+	alert("Función en desarrollo");
 });
