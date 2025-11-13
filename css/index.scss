@@ -15,6 +15,13 @@
 	padding: 1rem;
 	position: relative;
 
+	background-image: url(../assets/header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-color: rgba($bg-color, 0.95);
+	background-blend-mode: multiply;
+
 	&::before {
 		content: "";
 		position: absolute;
@@ -26,24 +33,22 @@
 		background: $accent-color;
 		filter: blur(80px);
 		opacity: 0.3;
-		animation: pulse-shadow 8s ease-in-out infinite alternate;
+		animation: pulseShadow 8s ease-in-out infinite alternate;
+	}
+
+	&::after {
+		position: absolute;
+		content: "";
+		top: 0;
+		left: 0;
+		height: 100%;
+		width: 100%;
+
+		backdrop-filter: blur(5px);
+		-webkit-backdrop-filter: blur(5px);
 	}
 }
 
-@keyframes pulse-shadow {
-	0% {
-		transform: translateX(-50%) scaleX(0.8) scaleY(0.2);
-		opacity: 0.5;
-	}
-	50% {
-		transform: translateX(-50%) scaleX(1.2) scaleY(1);
-		opacity: 0.9;
-	}
-	100% {
-		transform: translateX(-50%) scaleX(1) scaleY(0.6);
-		opacity: 0.7;
-	}
-}
 .hero-content {
 	width: 100%;
 	display: flex;
@@ -55,12 +60,12 @@
 	@media (min-width: 700px) {
 		text-align: left;
 		padding: 3rem 5rem;
-		gap: 2rem;
+		gap: 0.8rem;
 	}
 }
 
 .hero-logo {
-	max-width: 140px;
+	max-width: 190px;
 	filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.6));
 
 	@media (min-width: 700px) {
@@ -144,6 +149,25 @@
 	}
 }
 
+.update-info {
+	text-transform: uppercase;
+	font-size: 1.2rem;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	color: $primary-color;
+
+	p {
+		color: $accent-color;
+	}
+}
+
+.scroll-icon {
+	rotate: 90deg;
+	animation: moveDown 0.8s infinite ease-in;
+}
+
 /* =====================
    FILTERS SECTION
 ===================== */
@@ -197,7 +221,7 @@
 		position: absolute;
 		top: 60px;
 		right: 0;
-		background: rgba($dark-color, 0.95);
+		background: rgba($dark-color, 0.7);
 		border: $border-general;
 		border-radius: $border-radius-general;
 		box-shadow: $box-shadow-general;
