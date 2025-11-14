@@ -577,7 +577,7 @@
     },
     {
         "eshop_link": "https://www.nintendo.es/Contenido-descargable/Fighters-Pass-1525170.html",
-        "genre": "Pelea",
+        "genre": "Lucha",
         "id": 73,
         "image_url": "https://cdn.mobygames.com/covers/17862728-super-smash-bros-ultimate-nintendo-switch-front-cover.jpg",
         "name": "Super Smash Bros. Ultimate Fighters Pass",
@@ -606,5 +606,85 @@
         "image_url": "https://cdn.mobygames.com/covers/8437180-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-front-cov.jpg",
         "name": "The Legend of Zelda: Breath of the Wild",
         "storage_size": 14.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/es-es/Noticias/2025/Enero/Juegos-para-Nintendo-Switch-disponibles-en-2025-2723824.html",
+        "genre": "Rol (RPG)",
+        "id": 77,
+        "image_url": "https://cdn.mobygames.com/covers/22824123-dragon-quest-i-ii-hd-2d-remake-windows-apps-front-cover.png",
+        "name": "DRAGON QUEST I & II HD-2D Remake",
+        "storage_size": 8.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Have-A-Nice-Death-2293833.html",
+        "genre": "Acción, Plataformas, Otros",
+        "id": 78,
+        "image_url": "https://cdn.mobygames.com/covers/16157027-have-a-nice-death-nintendo-switch-front-cover.jpg",
+        "name": "Have a Nice Death",
+        "storage_size": 1.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Hyrule-Warriors-La-era-del-cataclismo-1838129.html",
+        "genre": "Acción, Aventura",
+        "id": 79,
+        "image_url": "https://cdn.mobygames.com/covers/9564455-hyrule-warriors-age-of-calamity-nintendo-switch-front-cover.jpg",
+        "name": "Hyrule Warriors: La era del cataclismo",
+        "storage_size": 11.1
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/IMMORTALS-FENYX-RISING-1864799.html",
+        "genre": "Aventura",
+        "id": 80,
+        "image_url": "https://cdn.mobygames.com/covers/9759636-immortals-fenyx-rising-stadia-front-cover.jpg",
+        "name": "Immortals Fenyx Rising",
+        "storage_size": 16.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/INSIDE-1395727.html",
+        "genre": "Puzle, Aventura",
+        "id": 81,
+        "image_url": "https://cdn.mobygames.com/covers/1706114-inside-xbox-one-front-cover.png",
+        "name": "INSIDE",
+        "storage_size": 1.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Minecraft-1386505.html",
+        "genre": "Acción, Aventura",
+        "id": 82,
+        "image_url": "https://cdn.mobygames.com/covers/9261167-minecraft-playstation-4-front-cover.jpg",
+        "name": "Minecraft",
+        "storage_size": 1.6
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Mortal-Kombat-1-2393191.html",
+        "genre": "Lucha",
+        "id": 83,
+        "image_url": "https://cdn.mobygames.com/covers/17628678-mortal-kombat-1-xbox-series-front-cover.png",
+        "name": "Mortal Kombat 1",
+        "storage_size": 7.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/NARUTO-SHIPPUDEN-Ultimate-Ninja-STORM-4-ROAD-TO-BORUTO-1728717.html",
+        "genre": "Acción, Aventura, Lucha, Rol (RPG)",
+        "id": 84,
+        "image_url": "https://cdn.mobygames.com/covers/2249541-naruto-shippuden-ultimate-ninja-storm-4-xbox-one-front-cover.png",
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 ROAD TO BORUTO",
+        "storage_size": 12.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/es-es/Juegos/Juegos-de-Nintendo-Switch/Stray-2695008.html",
+        "genre": "Acción, Plataformas, Aventura",
+        "id": 85,
+        "image_url": "https://cdn.mobygames.com/covers/17752931-stray-windows-apps-front-cover.jpg",
+        "name": "Stray",
+        "storage_size": 5.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/ULTRA-STREET-FIGHTER-II-The-Final-Challengers-1174793.html",
+        "genre": "Lucha",
+        "id": 86,
+        "image_url": "https://cdn.mobygames.com/covers/9998596-ultra-street-fighter-ii-the-final-challengers-nintendo-switch-fr.jpg",
+        "name": "Ultra Street Fighter II: The Final Challengers",
+        "storage_size": 2.8
     }
 ]
