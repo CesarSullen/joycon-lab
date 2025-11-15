@@ -612,7 +612,7 @@
         "genre": "Rol (RPG)",
         "id": 77,
         "image_url": "https://cdn.mobygames.com/covers/22824123-dragon-quest-i-ii-hd-2d-remake-windows-apps-front-cover.png",
-        "name": "DRAGON QUEST I & II HD-2D Remake",
+        "name": "Dragon Quest I & II HD-2D Remake",
         "storage_size": 8.3
     },
     {
@@ -644,7 +644,7 @@
         "genre": "Puzle, Aventura",
         "id": 81,
         "image_url": "https://cdn.mobygames.com/covers/1706114-inside-xbox-one-front-cover.png",
-        "name": "INSIDE",
+        "name": "Inside",
         "storage_size": 1.5
     },
     {
@@ -668,7 +668,7 @@
         "genre": "Acción, Aventura, Lucha, Rol (RPG)",
         "id": 84,
         "image_url": "https://cdn.mobygames.com/covers/2249541-naruto-shippuden-ultimate-ninja-storm-4-xbox-one-front-cover.png",
-        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 ROAD TO BORUTO",
+        "name": "Naruto Shippuden: Ultimate Ninja STORM 4 ROAD TO BORUTO",
         "storage_size": 12.5
     },
     {
@@ -686,5 +686,37 @@
         "image_url": "https://cdn.mobygames.com/covers/9998596-ultra-street-fighter-ii-the-final-challengers-nintendo-switch-fr.jpg",
         "name": "Ultra Street Fighter II: The Final Challengers",
         "storage_size": 2.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Disco-Elysium-The-Final-Cut-2045652.html",
+        "genre": "Aventura, Rol (RPG)",
+        "id": 87,
+        "image_url": "https://cdn.mobygames.com/covers/11267408-disco-elysium-stadia-front-cover.jpg",
+        "name": "Disco Elysium - The Final Cut",
+        "storage_size": 8.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/MONOPOLY--2660027.html",
+        "genre": "Fiesta, Tablero",
+        "id": 88,
+        "image_url": "https://cdn.mobygames.com/covers/7523561-monopoly-nintendo-switch-front-cover.jpg",
+        "name": "Monopoly",
+        "storage_size": 1.7
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/The-Settlers-New-Allies-2356362.html",
+        "genre": "Simulación, Estrategia",
+        "id": 89,
+        "image_url": "https://cdn.mobygames.com/covers/15541921-the-settlers-new-allies-windows-front-cover.jpg",
+        "name": "The Settlers: New Allies",
+        "storage_size": 7.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Torchlight-III-1822757.html",
+        "genre": "Acción, Rol (RPG)",
+        "id": 90,
+        "image_url": "https://cdn.mobygames.com/covers/9367226-torchlight-iii-windows-apps-front-cover.jpg",
+        "name": "Torchlight III",
+        "storage_size": 10.6
     }
 ]
