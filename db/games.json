@@ -736,12 +736,12 @@
         "storage_size": 11.6
     },
     {
-        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Geometric-Sniper-1919978.html",
-        "genre": "Acción, Puzle",
+        "eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/ASTRAL-CHAIN--1513766.html",
+        "genre": "Acción, Aventura",
         "id": 93,
-        "image_url": "https://cdn.mobygames.com/covers/11151471-geometric-sniper-xbox-one-front-cover.jpg",
-        "name": "Geometric Sniper",
-        "storage_size": 0.8
+        "image_url": "https://cdn.mobygames.com/covers/7912739-astral-chain-nintendo-switch-front-cover.jpg",
+        "name": "Astral Chain",
+        "storage_size": 11.0
     },
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/Just-Dance-2018--1286991.html",
@@ -790,5 +790,21 @@
         "image_url": "https://cdn.mobygames.com/covers/19963293-superhot-xbox-one-front-cover.png",
         "name": "Superhot",
         "storage_size": 2.1
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Bayonetta-Origins-Cereza-and-the-Lost-Demon-2311253.html",
+        "genre": "Acción, Aventura, Puzle",
+        "id": 100,
+        "image_url": "https://cdn.mobygames.com/covers/17699994-bayonetta-origins-cereza-and-the-lost-demon-nintendo-switch-fron.jpg",
+        "name": "Bayonetta Origins: Cereza and the Lost Demon",
+        "storage_size": 11.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Jurassic-World-Evolution-Complete-Edition-1835412.html",
+        "genre": "Estrategia, Simulación",
+        "id": 101,
+        "image_url": "https://cdn.mobygames.com/covers/9430232-jurassic-world-evolution-complete-edition-nintendo-switch-front-.jpg",
+        "name": "Jurassic World Evolution: Complete Edition",
+        "storage_size": 7.2
     }
 ]
