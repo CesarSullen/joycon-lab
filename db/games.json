@@ -718,5 +718,77 @@
         "image_url": "https://cdn.mobygames.com/covers/9367226-torchlight-iii-windows-apps-front-cover.jpg",
         "name": "Torchlight III",
         "storage_size": 10.6
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/Crash-Bandicoot-N-Sane-Trilogy-1347784.html",
+        "genre": "Plataformas, Acción",
+        "id": 91,
+        "image_url": "https://cdn.mobygames.com/covers/10118342-crash-bandicoot-n-sane-trilogy-windows-apps-front-cover.jpg",
+        "name": "Crash Bandicoot N. Sane Trilogy",
+        "storage_size": 5.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Divinity-Original-Sin-2-Definitive-Edition-1633057.html",
+        "genre": "Rol (RPG), Aventura",
+        "id": 92,
+        "image_url": "https://cdn.mobygames.com/covers/11178798-divinity-original-sin-ii-nintendo-switch-front-cover.jpg",
+        "name": "Divinity: Original Sin 2 - Definitive Edition",
+        "storage_size": 11.6
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Geometric-Sniper-1919978.html",
+        "genre": "Acción, Puzle",
+        "id": 93,
+        "image_url": "https://cdn.mobygames.com/covers/11151471-geometric-sniper-xbox-one-front-cover.jpg",
+        "name": "Geometric Sniper",
+        "storage_size": 0.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/Just-Dance-2018--1286991.html",
+        "genre": "Baile, Fiesta",
+        "id": 94,
+        "image_url": "https://cdn.mobygames.com/covers/2756672-just-dance-2018-xbox-one-front-cover.jpg",
+        "name": "Just Dance 2018",
+        "storage_size": 13.2
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/Just-Dance-2019-1460747.html",
+        "genre": "Baile, Fiesta",
+        "id": 95,
+        "image_url": "https://cdn.mobygames.com/covers/5767843-just-dance-2019-xbox-one-front-cover.jpg",
+        "name": "Just Dance 2019",
+        "storage_size": 12.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/Just-Dance-2020-1633058.html",
+        "genre": "Baile, Fiesta",
+        "id": 96,
+        "image_url": "https://cdn.mobygames.com/covers/8335106-just-dance-2020-xbox-one-front-cover.jpg",
+        "name": "Just Dance 2020",
+        "storage_size": 7.9
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/Ori-and-the-Will-of-the-Wisps-1842518.html",
+        "genre": "Plataformas, Aventura",
+        "id": 97,
+        "image_url": "https://cdn.mobygames.com/covers/8763761-ori-and-the-will-of-the-wisps-windows-apps-front-cover.jpg",
+        "name": "Ori and the Will of the Wisps",
+        "storage_size": 5.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Shadow-Fight-2-2414522.html",
+        "genre": "Lucha, Acción",
+        "id": 98,
+        "image_url": "https://cdn.mobygames.com/covers/9679893-shadow-fight-2-android-front-cover.png",
+        "name": "Shadow Fight 2",
+        "storage_size": 0.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/SUPERHOT-1569927.html",
+        "genre": "Acción, Disparos (Shooter)",
+        "id": 99,
+        "image_url": "https://cdn.mobygames.com/covers/19963293-superhot-xbox-one-front-cover.png",
+        "name": "Superhot",
+        "storage_size": 2.1
     }
 ]
