@@ -1,13 +1,5 @@
 [
     {
-        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/DAVE-THE-DIVER-2414524.html",
-        "genre": "Aventura, Rol (RPG), Simulación",
-        "id": 0,
-        "image_url": "https://cdn.mobygames.com/covers/11083314-dave-the-diver-windows-front-cover.jpg",
-        "name": "Dave the Diver",
-        "storage_size": 3.8
-    },
-    {
         "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Assassin-s-Creed-III-Remastered-1514676.html",
         "genre": "Acción",
         "id": 1,
@@ -826,7 +818,7 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Dragon-s-Dogma-Dark-Arisen-1378431.html",
         "genre": "Acción, Rol (RPG)",
-        "id": 104,
+        "id": 103,
         "image_url": "https://cdn.mobygames.com/covers/2985761-dragons-dogma-dark-arisen-xbox-one-front-cover.jpg",
         "name": "Dragon's Dogma: Dark Arisen",
         "storage_size": 13.5
@@ -834,7 +826,7 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/FINAL-FANTASY-XV-POCKET-EDITION-HD-1378432.html",
         "genre": "Aventura, Rol (RPG)",
-        "id": 105,
+        "id": 104,
         "image_url": "https://cdn.mobygames.com/covers/3463159-final-fantasy-xv-pocket-edition-xbox-one-front-cover.jpg",
         "name": "Final Fantasy XV Pocket Edition",
         "storage_size": 7.8
@@ -842,7 +834,7 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Green-Game-TimeSwapper-1000382.html",
         "genre": "Puzle",
-        "id": 106,
+        "id": 105,
         "image_url": "https://cdn.mobygames.com/covers/3406104-green-game-timeswapper-nintendo-switch-front-cover.jpg",
         "name": "Green Game: TimeSwapper",
         "storage_size": 0.45
@@ -850,7 +842,7 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Hungry-Shark-World-1424602.html",
         "genre": "Acción, Arcade",
-        "id": 107,
+        "id": 106,
         "image_url": "https://cdn.mobygames.com/covers/901254-hungry-shark-world-nintendo-switch-front-cover.jpg",
         "name": "Hungry Shark World",
         "storage_size": 2.9
@@ -858,7 +850,7 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Machinarium-1569928.html",
         "genre": "Aventura, Puzle",
-        "id": 108,
+        "id": 107,
         "image_url": "https://cdn.mobygames.com/covers/8967213-machinarium-windows-apps-front-cover.jpg",
         "name": "Machinarium",
         "storage_size": 0.85
@@ -866,7 +858,7 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Miraculous-Rise-of-the-Sphinx-2273834.html",
         "genre": "Acción, Aventura",
-        "id": 109,
+        "id": 108,
         "image_url": "https://cdn.mobygames.com/covers/11147844-zag-heroez-miraculous-rise-of-the-sphinx-playstation-4-front-cov.jpg",
         "name": "Miraculous: Rise of the Sphinx",
         "storage_size": 2.6
@@ -874,7 +866,7 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/OCTOPATH-TRAVELER-II-2311254.html",
         "genre": "Rol (RPG)",
-        "id": 110,
+        "id": 109,
         "image_url": "https://cdn.mobygames.com/covers/18972076-octopath-traveler-ii-windows-apps-front-cover.jpg",
         "name": "Octopath Traveler II",
         "storage_size": 8.7
@@ -882,7 +874,7 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/OCTOPATH-TRAVELER-1275922.html",
         "genre": "Rol (RPG)",
-        "id": 111,
+        "id": 110,
         "image_url": "https://cdn.mobygames.com/covers/9928788-octopath-traveler-windows-apps-front-cover.jpg",
         "name": "Octopath Traveler",
         "storage_size": 5.4
@@ -890,7 +882,7 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Nintendo-Switch/Pokemon-Let-s-Go-Pikachu--1382836.html",
         "genre": "Aventura, Rol (RPG)",
-        "id": 112,
+        "id": 111,
         "image_url": "https://cdn.mobygames.com/covers/7254009-pokemon-lets-go-pikachu-nintendo-switch-front-cover.jpg",
         "name": "Pokémon: Let's Go, Pikachu!",
         "storage_size": 4.1
@@ -898,7 +890,7 @@
     {
         "eshop_link": "https://nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Raft-Survival-Simulator-2512160.html",
         "genre": "Simulación, Supervivencia",
-        "id": 113,
+        "id": 112,
         "image_url": "https://cdn.mobygames.com/covers/18793661-survive-on-raft-windows-apps-front-cover.jpg",
         "name": "Raft Survival Simulator",
         "storage_size": 1.2
@@ -906,7 +898,7 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Rooftops-Alleys-The-Parkour-Game-2695009.html",
         "genre": "Deportes, Plataformas",
-        "id": 114,
+        "id": 113,
         "image_url": "https://cdn.mobygames.com/covers/20303094-rooftops-alleys-xbox-series-front-cover.png",
         "name": "Rooftops & Alleys: The Parkour Game",
         "storage_size": 3.5
@@ -914,9 +906,33 @@
     {
         "eshop_link": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/TOEM-A-Photo-Adventure-2045653.html",
         "genre": "Aventura, Puzle",
-        "id": 115,
+        "id": 114,
         "image_url": "https://cdn.mobygames.com/covers/19639515-toem-a-photo-adventure-windows-apps-front-cover.jpg",
         "name": "TOEM: A Photo Adventure",
         "storage_size": 0.72
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Beyond-a-Steel-Sky-1835413.html",
+        "genre": "Aventura, Puzle",
+        "id": 115,
+        "image_url": "imagen link aqui",
+        "name": "Beyond a Steel Sky",
+        "storage_size": 8.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Red-Dead-Redemption-2414525.html",
+        "genre": "Acción, Aventura",
+        "id": 116,
+        "image_url": "https://cdn.mobygames.com/covers/11106680-beyond-a-steel-sky-xbox-one-front-cover.jpg",
+        "name": "Red Dead Redemption",
+        "storage_size": 11.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/The-Wandering-Village-2273835.html",
+        "genre": "Estrategia, Simulación",
+        "id": 117,
+        "image_url": "https://cdn.mobygames.com/covers/17493448-red-dead-redemption-playstation-4-front-cover.png",
+        "name": "The Wandering Village",
+        "storage_size": 1.1
     }
 ]
