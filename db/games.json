@@ -915,7 +915,7 @@
         "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Beyond-a-Steel-Sky-1835413.html",
         "genre": "Aventura, Puzle",
         "id": 115,
-        "image_url": "imagen link aqui",
+        "image_url": "https://cdn.mobygames.com/covers/11106680-beyond-a-steel-sky-xbox-one-front-cover.jpg",
         "name": "Beyond a Steel Sky",
         "storage_size": 8.3
     },
@@ -923,7 +923,7 @@
         "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Red-Dead-Redemption-2414525.html",
         "genre": "Acción, Aventura",
         "id": 116,
-        "image_url": "https://cdn.mobygames.com/covers/11106680-beyond-a-steel-sky-xbox-one-front-cover.jpg",
+        "image_url": "https://cdn.mobygames.com/covers/17493448-red-dead-redemption-playstation-4-front-cover.png",
         "name": "Red Dead Redemption",
         "storage_size": 11.3
     },
@@ -931,7 +931,7 @@
         "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/The-Wandering-Village-2273835.html",
         "genre": "Estrategia, Simulación",
         "id": 117,
-        "image_url": "https://cdn.mobygames.com/covers/17493448-red-dead-redemption-playstation-4-front-cover.png",
+        "image_url": "https://cdn.mobygames.com/covers/20422538-the-wandering-village-windows-apps-front-cover.jpg",
         "name": "The Wandering Village",
         "storage_size": 1.1
     }
