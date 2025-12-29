@@ -934,5 +934,13 @@
         "image_url": "https://cdn.mobygames.com/covers/20422538-the-wandering-village-windows-apps-front-cover.jpg",
         "name": "The Wandering Village",
         "storage_size": 1.1
+    },
+    {
+        "eshop_link": "https://www.nintendo.es/Juegos/Juegos-de-Nintendo-Switch/Outward-Definitive-Edition-2524640.html",
+        "genre": "Aventura, Rol (RPG)",
+        "id": 118,
+        "image_url": "https://cdn.mobygames.com/covers/10857933-outward-definitive-edition-xbox-series-front-cover.jpg",
+        "name": "Outward Definitive Edition",
+        "storage_size": 6.3
     }
 ]
