@@ -942,5 +942,21 @@
         "image_url": "https://cdn.mobygames.com/covers/10857933-outward-definitive-edition-xbox-series-front-cover.jpg",
         "name": "Outward Definitive Edition",
         "storage_size": 6.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Salt-and-Sanctuary-1409841.html",
+        "genre": "Acción, RPG, Plataformas",
+        "id": 119,
+        "image_url": "https://cdn.mobygames.com/covers/7487648-salt-and-sanctuary-xbox-one-front-cover.jpg",
+        "name": "Salt and Sanctuary",
+        "storage_size": 0.9
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Salt-and-Sacrifice-2477283.html",
+        "genre": "Acción, RPG, Plataformas",
+        "id": 120,
+        "image_url": "https://cdn.mobygames.com/covers/10639844-salt-and-sacrifice-windows-front-cover.jpg",
+        "name": "Salt and Sacrifice",
+        "storage_size": 0.7
     }
 ]
