@@ -958,5 +958,13 @@
         "image_url": "https://cdn.mobygames.com/covers/10639844-salt-and-sacrifice-windows-front-cover.jpg",
         "name": "Salt and Sacrifice",
         "storage_size": 0.7
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-mx/store/products/europa-switch/",
+        "genre": "Acción, Aventura",
+        "id": 121,
+        "image_url": "https://pressakey.com/gfxgames/boxart/full/Europa-8083-1671275526.jpg",
+        "name": "Europa",
+        "storage_size": 2.6
     }
 ]
