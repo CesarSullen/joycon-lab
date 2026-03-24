@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 			const filtered = games.filter(
 				(game) =>
 					game.name.toLowerCase().includes(query) ||
-					game.genre.toLowerCase().includes(query)
+					game.genre.toLowerCase().includes(query),
 			);
 			renderGames(filtered);
 		});
@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 // Interception Observer
 const animatedElements = document.querySelectorAll(
-	".show-up, .show-down, .show-left, .show-right, .bounce-in, .rotate-left, .rotate-right"
+	".show-up, .show-down, .show-left, .show-right, .bounce-in, .rotate-left, .rotate-right",
 );
 
 const observer = new IntersectionObserver(
@@ -111,7 +111,21 @@ const observer = new IntersectionObserver(
 			}
 		});
 	},
-	{ root: null, rootMargin: "0px", threshold: 0.2 }
+	{ root: null, rootMargin: "0px", threshold: 0.2 },
 );
 
 animatedElements.forEach((el) => observer.observe(el));
+
+async function trackProjectActivity(projectName) {
+	try {
+		const { error } = await _supabase.rpc("increment_visit", {
+			name_param: projectName,
+		});
+
+		if (error) throw error;
+	} catch (err) {
+		console.warn("Offline mode");
+	}
+}
+
+trackProjectActivity("JoyCon-Lab");
