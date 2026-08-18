@@ -11,6 +11,12 @@
 		/>
 		<meta property="og:type" content="website" />
 		<meta property="og:image" content="./assets/opengraph/opengraph.jpg" />
+		<meta name="theme-color" content="#ADD4D5" />
+		<meta
+			name="apple-mobile-web-app-status-bar-style"
+			content="black-translucent"
+		/>
+
 		<link rel="icon" type="image/png" href="./assets/opengraph/logo.png" />
 		<link
 			rel="apple-touch-icon"
@@ -22,21 +28,21 @@
 	</head>
 	<body id="body">
 		<header id="hero" class="hero">
+			<div class="corner-logo show-down">
+				<img src="./assets/opengraph/logo-no-bg.png" alt="Joy-Con Lab" />
+				<p>Joy-Con Lab</p>
+			</div>
+
 			<div class="hero-shadow"></div>
 			<div class="hero-content">
-				<img
-					src="./assets/opengraph/logo-no-bg.png"
-					class="hero-logo show-down"
-					alt="Joy-Con Lab"
-				/>
 				<div class="hero-text show-up">
 					<h1 class="hero-title">
-						Bienvenido a <span class="primary-color-text">Joy</span>-<span
-							class="secondary-color-text"
-							>Con</span
-						>
+						Bienvenido a <br />
+						<span class="primary-color-text">Joy</span
+						><span class="secondary-color-text">-Con</span>
 						Lab
 					</h1>
+					<p class="hero-subtitle">Explora y disfruta</p>
 				</div>
 				<div class="cta-section">
 					<a href="./" class="cta-link">
@@ -61,15 +67,21 @@
 					>
 						<img
 							class="cta-btn bounce-in"
-							src="./assets/icons/info.svg"
+							src="./assets/icons/envelope-simple.svg"
 							alt="Contacto"
 						/>
 					</a>
+					<!-- <a href="#" class="cta-link">
+						<img
+							class="cta-btn bounce-in"
+							src="./assets/icons/heart-straight.svg"
+							alt="Favoritos"
+						/>
+					</a> -->
 				</div>
 				<div class="update-info bounce-in">
 					<h3>última actualización</h3>
 					<h4>16/8/2026</h4>
-					<p>1 JUEGO AÑADIDO</p>
 				</div>
 				<a href="#filters-section" class="scroll-icon">❯</a>
 			</div>
@@ -92,7 +104,7 @@
 					>
 						<img src="./assets/icons/funnel-simple-bold.svg" alt="Filtrar" />
 					</button>
-					<div class="sort-dropdown bounce-in">
+					<div class="sort-dropdown">
 						<ul id="sort-options" class="sort-options hidden bounce-in">
 							<li data-sort="name-asc">Nombre A–Z</li>
 							<li data-sort="name-desc">Nombre Z–A</li>
