@@ -70,13 +70,19 @@
 							alt="Contacto"
 						/>
 					</a>
-					<!-- <a href="#" class="cta-link">
+					<button
+						type="button"
+						id="favorites-btn"
+						class="cta-link"
+						aria-haspopup="dialog"
+						aria-controls="favorites-modal"
+					>
 						<img
 							class="cta-btn bounce-in"
 							src="./assets/icons/heart-straight-bold.svg"
 							alt="Favoritos"
 						/>
-					</a> -->
+					</button>
 				</div>
 				<div class="update-info bounce-in">
 					<h3>ultima actualización</h3>
@@ -118,6 +124,28 @@
 			<section id="catalog-section" class="catalog-section">
 				<main id="games-grid" class="games-grid"></main>
 			</section>
+		</div>
+		<div
+			id="favorites-modal"
+			class="favorites-modal"
+			role="dialog"
+			aria-modal="true"
+			aria-labelledby="favorites-modal-title"
+		>
+			<div class="favorites-modal-box">
+				<div class="favorites-modal-header">
+					<h2 id="favorites-modal-title">Favoritos</h2>
+					<button
+						type="button"
+						id="favorites-close-btn"
+						class="favorites-close-btn"
+						aria-label="Cerrar"
+					>
+						✕
+					</button>
+				</div>
+				<ul id="favorites-list" class="favorites-list"></ul>
+			</div>
 		</div>
 		<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 		<script src="./js/supabase-config.js"></script>

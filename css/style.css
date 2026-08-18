@@ -32,6 +32,7 @@
 }
 html {
 	scroll-behavior: smooth;
+	scrollbar-gutter: stable;
 }
 @media (prefers-reduced-motion: reduce) {
 	html {
@@ -43,9 +44,19 @@ body {
 	overflow-x: hidden;
 	color: var(--text);
 }
+body.modal-open {
+	overflow: hidden;
+}
 a {
 	color: inherit;
 	text-decoration: none;
+}
+button {
+	background: none;
+	border: none;
+	color: inherit;
+	font: inherit;
+	cursor: pointer;
 }
 img,
 picture,
@@ -393,21 +404,24 @@ section {
 }
 /* Game card */
 .game-card {
+	position: relative;
+	width: 100%;
+	max-width: 280px;
+	border-radius: 8px;
+}
+.game-card-link {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	width: 100%;
-	max-width: 280px;
 	gap: 0.8rem;
 	cursor: pointer;
 	transition: transform 0.2s ease;
-	border-radius: 8px;
 }
 @media (min-width: 768px) {
-	.game-card:hover {
+	.game-card-link:hover {
 		transform: translateY(-4px);
 	}
-	.game-card:hover .game-image {
+	.game-card-link:hover .game-image {
 		box-shadow:
 			0 0 0 2px var(--primary),
 			0 8px 24px rgba(0, 143, 203, 0.35);
@@ -422,6 +436,47 @@ section {
 	object-position: top center;
 	overflow: hidden;
 	transition: box-shadow 0.2s ease;
+}
+.favorite-btn {
+	position: absolute;
+	top: 0.6rem;
+	right: 0.6rem;
+	width: 44px;
+	height: 44px;
+	border-radius: 500px;
+	background-color: var(--surface);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: transform 0.2s ease;
+}
+.favorite-btn:active {
+	transform: scale(0.9);
+}
+.favorite-icon {
+	width: 22px;
+	height: 22px;
+	position: relative;
+}
+.favorite-icon path {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.favorite-icon-outline {
+	fill: var(--text);
+	transition: opacity 0.2s ease;
+}
+.favorite-icon-fill {
+	fill: var(--secondary);
+	opacity: 0;
+	transition: opacity 0.2s ease;
+}
+.favorite-btn.is-favorite .favorite-icon-outline {
+	opacity: 0;
+}
+.favorite-btn.is-favorite .favorite-icon-fill {
+	opacity: 1;
 }
 .game-info {
 	display: flex;
@@ -462,6 +517,108 @@ section {
 .game-size .size-icon {
 	width: 20px;
 	height: 20px;
+}
+/* Favorites modal */
+.favorites-modal {
+	position: fixed;
+	inset: 0;
+	z-index: 100;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 1rem;
+	background: rgba(0, 0, 0, 0.6);
+	opacity: 0;
+	pointer-events: none;
+	transition: opacity 0.25s ease;
+}
+.favorites-modal.is-open {
+	opacity: 1;
+	pointer-events: auto;
+}
+.favorites-modal-box {
+	width: min(480px, 92vw);
+	max-height: 88vh;
+	display: flex;
+	flex-direction: column;
+	border-radius: 12px;
+	overflow: hidden;
+	background-color: var(--bg);
+	color: var(--text);
+}
+.favorites-modal-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem 1.2rem;
+	border-bottom: 1px solid var(--surface);
+}
+.favorites-modal-header h2 {
+	font-size: 1.2rem;
+	font-weight: 700;
+}
+.favorites-close-btn {
+	font-size: 1.1rem;
+	line-height: 1;
+	padding: 0.3rem;
+}
+.favorites-list {
+	overflow-y: auto;
+}
+.favorites-item {
+	display: flex;
+	align-items: center;
+	gap: 0.8rem;
+	padding: 0.8rem 1.2rem;
+	background-color: var(--bg);
+	border-bottom: 1px solid var(--surface);
+}
+.favorites-item:last-child {
+	border-bottom: none;
+}
+.favorites-item-image {
+	width: 50px;
+	aspect-ratio: 2/3;
+	object-fit: cover;
+	border-radius: 6px;
+	flex-shrink: 0;
+}
+.favorites-item-info {
+	display: flex;
+	flex-direction: column;
+	gap: 0.15rem;
+	flex-grow: 1;
+	min-width: 0;
+}
+.favorites-item-name {
+	font-size: 1rem;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.favorites-item-genre {
+	font-size: 0.8rem;
+	color: rgba(var(--text), 0.7);
+}
+.favorites-item-size {
+	font-size: 0.8rem;
+	color: rgba(var(--text), 0.7);
+}
+.favorites-remove-btn {
+	flex-shrink: 0;
+	background-color: var(--secondary);
+	color: var(--text);
+	font-size: 0.75rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	padding: 0.5rem 0.8rem;
+	border-radius: 6px;
+}
+.favorites-empty {
+	padding: 2rem 1.2rem;
+	text-align: center;
+	color: rgba(var(--text), 0.7);
 }
 /* Empty state */
 .empty-state {
