@@ -1,29 +1,20 @@
 /* Typography */
 @font-face {
-	font-family: "Inter";
-	src: url("../fonts/Inter-Regular.ttf") format("truetype");
+	font-family: "Tomorrow";
+	src: url("../fonts/Tomorrow-Regular.ttf") format("truetype");
 	font-weight: 400;
 }
 @font-face {
-	font-family: "Inter";
-	src: url("../fonts/Inter-Bold.ttf") format("truetype");
-	font-weight: 600;
+	font-family: "Tomorrow";
+	src: url("../fonts/Tomorrow-Bold.ttf") format("truetype");
+	font-weight: 700;
 }
-@font-face {
-	font-family: "FiraSans";
-	src: url("../fonts/FiraSans-Regular.ttf") format("truetype");
-	font-weight: 400;
-}
-@font-face {
-	font-family: "FiraSans";
-	src: url("../fonts/FiraSans-Bold.ttf") format("truetype");
-	font-weight: 600;
-}
+
 /* Variables */
 :root {
 	--bg: #313130;
 	--surface: rgb(76, 76, 76);
-	--text: rgb(204, 204, 204);
+	--text: rgb(222, 223, 223);
 	--primary: #0076ff;
 	--secondary: #ff3b30;
 	--tertiary: #3f96fb;
@@ -37,7 +28,7 @@
 	border: none;
 	list-style: none;
 	text-decoration: none;
-	font-family: "FiraSans", sans-serif;
+	font-family: "Tomorrow";
 }
 html {
 	scroll-behavior: smooth;
@@ -70,7 +61,6 @@ button:focus-visible {
 	outline-offset: 3px;
 }
 /* Utilities */
-
 .hidden {
 	opacity: 0;
 	scale: 0.9;
@@ -90,50 +80,6 @@ hr {
 	background-color: rgba(var(--surface), 0.15);
 	height: 2px;
 	border: none;
-}
-/* Buttons */
-.btn {
-	padding: 0.8rem 1.6rem;
-	border-radius: 8px;
-	font-size: 1rem;
-	cursor: pointer;
-	width: 100%;
-	text-transform: uppercase;
-	text-align: center;
-	font-weight: 600;
-	letter-spacing: 1px;
-	position: relative;
-	overflow: hidden;
-	background: var(--primary);
-	color: white;
-	border: none;
-	transition: background 0.2s ease;
-}
-@media screen and (min-width: 768px) {
-	.btn {
-		max-width: 250px;
-	}
-}
-.ghost-btn {
-	background: transparent;
-	border: solid 2px var(--primary);
-	color: var(--primary);
-	transition:
-		box-shadow 0.2s ease,
-		transform 0.2s ease;
-}
-.ghost-btn:active {
-	transform: scale(0.95);
-	box-shadow: none;
-}
-@media (min-width: 768px) {
-	.btn:hover {
-		background: var(--tertiary);
-	}
-	.ghost-btn:hover {
-		box-shadow: 0 2px 5px rgba(var(--surface), 0.05);
-		transform: translateY(-2px);
-	}
 }
 /* Layout */
 .body-content {
@@ -233,7 +179,7 @@ section {
 	background-size: cover;
 	background-position: center;
 }
-@media (min-width: 768px) and (prefers-reduced-motion: no-preference) {
+@media (prefers-reduced-motion: no-preference) {
 	.hero {
 		background-attachment: fixed;
 	}
@@ -267,21 +213,12 @@ section {
 }
 .corner-logo p {
 	color: var(--bg);
-	font-weight: bold;
-	font-size: 1.8rem;
-}
-@media (min-width: 768px) {
-	.corner-logo img {
-		width: 56px;
-	}
-	.corner-logo p {
-		font-size: 1.6rem;
-	}
+	font-weight: 700;
+	font-size: 1.4rem;
 }
 .hero-text {
 	margin-top: 1rem;
 	text-align: center;
-	font-family: "Inter", sans-serif;
 	color: var(--bg);
 }
 @media (min-width: 768px) {
@@ -290,76 +227,60 @@ section {
 	}
 }
 .hero-title {
-	font-size: 2.1rem;
-	font-weight: 700;
+	font-size: 1.8rem;
 	margin-bottom: 0.5rem;
 	line-height: 1.15;
 }
-.hero-subtitle {
-	font-size: 1.1rem;
-	color: var(--surface);
-	letter-spacing: 1.5px;
-}
-@media (min-width: 768px) {
-	.hero-subtitle {
-		font-size: 1.3rem;
-	}
-}
 .hero-title .primary-color-text {
 	color: var(--primary);
-	font-family: "FiraSans";
 }
 .hero-title .secondary-color-text {
 	color: var(--secondary);
-	font-family: "FiraSans";
 }
 @media (min-width: 768px) {
 	.hero-title {
-		font-size: 2.8rem;
+		font-size: 2rem;
 	}
 }
 .cta-section {
 	display: flex;
 	gap: 1rem;
-	margin-top: 2rem;
 	flex-wrap: wrap;
 	justify-content: center;
 }
-.cta-section .cta-link {
-	text-decoration: none;
+@media (min-width: 768px) {
+	.cta-section {
+		justify-content: flex-start;
+	}
 }
-.cta-section .cta-btn {
+.cta-link {
+	text-decoration: none;
 	background-color: var(--surface);
 	border: 2px solid var(--tertiary);
 	width: 60px;
 	height: 60px;
-	border-radius: 35px;
-	cursor: pointer;
+	border-radius: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	transition:
 		transform 0.2s ease,
 		box-shadow 0.2s ease;
-	padding: 0.8rem;
+}
+.cta-btn {
+	cursor: pointer;
+	padding: 0.6rem;
 }
 @media (min-width: 768px) {
-	.cta-section .cta-btn {
-		width: 66px;
-		height: 66px;
-		font-size: 1.8rem;
-	}
-	.cta-section .cta-btn:hover {
+	.cta-link:hover {
 		transform: scale(1.08) rotate(15deg);
 		box-shadow: 0 0 8px rgba(74, 161, 202, 0.8);
 	}
 }
-@media (min-width: 768px) {
-	.cta-section {
-		margin-top: 3rem;
-		justify-content: flex-start;
-	}
-}
+
 .update-info {
-	text-transform: uppercase;
-	font-size: 1.2rem;
+	text-transform: capitalize;
+	font-size: 1rem;
 	text-align: center;
 	display: flex;
 	flex-direction: column;
@@ -368,7 +289,7 @@ section {
 }
 .scroll-icon {
 	rotate: 90deg;
-	color: var(--bg);
+	color: var(--primary);
 	animation: moveDown 0.8s infinite ease-in;
 }
 /* Filters section */
@@ -465,7 +386,7 @@ section {
 	justify-items: center;
 	width: 100%;
 }
-@media screen and (min-width: 768px) {
+@media (min-width: 768px) {
 	.games-grid {
 		grid-template-columns: repeat(3, 1fr);
 	}
@@ -509,9 +430,8 @@ section {
 	width: 100%;
 }
 .game-info .game-title {
-	font-family: "FiraSans", sans-serif;
 	font-size: 1.2rem;
-	font-weight: 600;
+	font-weight: 400;
 }
 .game-genres {
 	display: flex;
@@ -526,22 +446,22 @@ section {
 	border-radius: 20px;
 	background: var(--tertiary);
 	color: var(--bg);
-	font-weight: bold;
+	font-weight: 700;
+	letter-spacing: 1px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
-.game-info .game-size {
+.game-size {
 	display: flex;
 	align-items: center;
 	gap: 0.35rem;
 	font-size: 1rem;
 	color: rgba(var(--text), 0.8);
 }
-.game-info .game-size .size-icon {
-	width: 18px;
-	height: 18px;
-	opacity: 0.8;
+.game-size .size-icon {
+	width: 20px;
+	height: 20px;
 }
 /* Empty state */
 .empty-state {
