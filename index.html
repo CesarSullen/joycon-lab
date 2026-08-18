@@ -3,30 +3,32 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content="Catálogo de Juegos de Nintendo Switch" />
 		<meta property="og:title" content="Joy-Con Lab" />
 		<meta
 			property="og:description"
 			content="Catálogo de Juegos de Nintendo Switch"
 		/>
 		<meta property="og:type" content="website" />
-		<meta property="og:image" content="./assets/pengraph/opengraph.jpg" />
+		<meta property="og:image" content="./assets/opengraph/opengraph.jpg" />
 		<link rel="icon" type="image/png" href="./assets/opengraph/logo.png" />
 		<link
 			rel="apple-touch-icon"
 			sizes="180x180"
-			href="./assets/pengraph/logo.png"
+			href="./assets/opengraph/logo.png"
 		/>
 		<link rel="stylesheet" href="./css/style.css" />
-
 		<title>Joy-Con Lab</title>
 	</head>
-
 	<body id="body">
-		<hero id="hero" class="hero">
+		<header id="hero" class="hero">
 			<div class="hero-shadow"></div>
 			<div class="hero-content">
-				<img src="./assets/opengraph/logo.png" class="hero-logo show-down" />
-
+				<img
+					src="./assets/opengraph/logo-no-bg.png"
+					class="hero-logo show-down"
+					alt="Joy-Con Lab"
+				/>
 				<div class="hero-text show-up">
 					<h1 class="hero-title">
 						Bienvenido a <span class="primary-color-text">Joy</span>-<span
@@ -35,40 +37,43 @@
 						>
 						Lab
 					</h1>
-					<h2 class="hero-subtitle">Cada 5 juegos te regalo 1</h2>
 				</div>
-
 				<div class="cta-section">
 					<a href="./" class="cta-link">
-						<img class="cta-btn bounce-in" src="./assets/icons/house.svg" />
+						<img
+							class="cta-btn bounce-in"
+							src="./assets/icons/house.svg"
+							alt="Inicio"
+						/>
 					</a>
-
 					<a href="#catalog-section" class="cta-link">
 						<img
 							class="cta-btn bounce-in"
 							src="./assets/icons/game-controller.svg"
+							alt="Catálogo"
 						/>
 					</a>
-
 					<a
 						href="https://wa.me/5351643954?text=Hola,%20escriba%20su%20mensaje%20aquí."
 						target="_blank"
+						rel="noopener noreferrer"
 						class="cta-link"
 					>
-						<img class="cta-btn bounce-in" src="./assets/icons/info.svg" />
+						<img
+							class="cta-btn bounce-in"
+							src="./assets/icons/info.svg"
+							alt="Contacto"
+						/>
 					</a>
 				</div>
-
 				<div class="update-info bounce-in">
 					<h3>última actualización</h3>
 					<h4>16/8/2026</h4>
 					<p>1 JUEGO AÑADIDO</p>
 				</div>
-
 				<a href="#filters-section" class="scroll-icon">❯</a>
 			</div>
-		</hero>
-
+		</header>
 		<div class="body-content">
 			<section id="filters-section" class="filters-section">
 				<div class="filters">
@@ -78,8 +83,13 @@
 						class="search-bar"
 						placeholder="Buscar juegos o géneros..."
 					/>
-
-					<button id="sort-btn" class="sort-btn">
+					<button
+						id="sort-btn"
+						class="sort-btn"
+						type="button"
+						aria-expanded="false"
+						aria-controls="sort-options"
+					>
 						<img src="./assets/icons/funnel-simple-bold.svg" alt="Filtrar" />
 					</button>
 					<div class="sort-dropdown bounce-in">
@@ -93,8 +103,7 @@
 					</div>
 				</div>
 			</section>
-
-			<!-- Catálogo -->
+			<!-- Catalog -->
 			<section id="catalog-section" class="catalog-section">
 				<main id="games-grid" class="games-grid"></main>
 			</section>

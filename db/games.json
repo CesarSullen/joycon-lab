@@ -1,970 +1,970 @@
 [
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Assassin-s-Creed-III-Remastered-1514676.html",
-		"genre": "Acción",
-		"id": 1,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/8dd80590af3ce146c701059534dca5ea.png",
-		"name": "Assassin's Creed III Remastered",
-		"storage_size": 12.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/ASSASSIN-S-CREED-THE-EZIO-COLLECTION-2171132.html",
-		"genre": "Acción, Aventura",
-		"id": 2,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/025776d8e7b468a1246bc3474112094f.jpg",
-		"name": "Assassins Creed The Ezio Collection",
-		"storage_size": 26.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Assassin-s-Creed-The-Rebel-Collection-1683980.html",
-		"genre": "Acción, Aventura",
-		"id": 3,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/f8fc679be1c05c7995fced1bfaf32682.jpg",
-		"name": "Assassins Creed The Rebel Collection",
-		"storage_size": 21.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Bastion-1430547.html",
-		"genre": "Acción, Aventura, Rol (RPG)",
-		"id": 4,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/7fc9f8bceb3c54b2859cf5898f503e7d.jpg",
-		"name": "Bastion",
-		"storage_size": 0.97
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/CRISIS-CORE-FINAL-FANTASY-VII-REUNION-2265466.html",
-		"genre": "Rol (RPG)",
-		"id": 5,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/5b7f5ac976e218f368f8d7a749582d14.jpg",
-		"name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
-		"storage_size": 14.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Cult-of-the-Lamb-2210770.html",
-		"genre": "Acción, Aventura, Estrategia",
-		"id": 6,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/2a767db15ebfd4c1909892220beeb51b.jpg",
-		"name": "Cult of the Lamb",
-		"storage_size": 1.6
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Cuphead-1532319.html",
-		"genre": "Acción, Plataformas, Arcade, Disparos (Shooter)",
-		"id": 7,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/25dcf1554f13c36b512dfe907acc77d3.jpg",
-		"name": "Cuphead",
-		"storage_size": 3.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Dark-Souls-Remastered-1325790.html",
-		"genre": "Acción, Rol (RPG)",
-		"id": 8,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/fa09649961c5c38096ee815c1084b2f0.jpg",
-		"name": "Dark Souls Remastered",
-		"storage_size": 3.9
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Dead-Cells-1333359.html",
-		"genre": "Acción, Plataformas",
-		"id": 9,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/8f1783bd2d26fd8ea9a1dfd6af9e29bb.jpg",
-		"name": "Dead Cells",
-		"storage_size": 3.8
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Diablo-II-Resurrected--2042555.html",
-		"genre": "Acción, Aventura, Rol (RPG)",
-		"id": 10,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/7cf7af6896c4b2a0c5f52595aff3aa6f.jpg",
-		"name": "Diablo II Resurrected",
-		"storage_size": 8.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Diablo-III-Eternal-Collection-1417875.html",
-		"genre": "Acción, Aventura, Rol (RPG)",
-		"id": 11,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/0cd1f7b24ff9ab56980652a197357732.jpg",
-		"name": "Diablo III Eternal Collection",
-		"storage_size": 16.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Don-t-Starve-Together-2090479.html",
-		"genre": "Aventura",
-		"id": 12,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/433206a957cc9824ced79a5060e7918c.jpg",
-		"name": "Don’t Starve Together",
-		"storage_size": 5.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Gang-Beasts-2018249.html",
-		"genre": "Acción, Lucha",
-		"id": 13,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/072eb633b9102fc0598f1a63c809c801.jpg",
-		"name": "Gang Beasts",
-		"storage_size": 3.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Grand-Theft-Auto-The-Trilogy-The-Definitive-Edition-2064540.html",
-		"genre": "Acción, Aventura",
-		"id": 14,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/4b7890d268495230ee3f9bcd05ce3365.png",
-		"name": "Grand Theft Auto San Andreas The Definitive Edition",
-		"storage_size": 11.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Hades-1821819.html",
-		"genre": "Acción, Aventura, Rol (RPG)",
-		"id": 15,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/bfe339860b048949369fc6945cea504d.jpg",
-		"name": "Hades",
-		"storage_size": 3.9
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Hades-II-2914566.html",
-		"genre": "Acción, Aventura, Rol (RPG)",
-		"id": 16,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/b2c6c5b4f6992b115368bcb678c4662a.jpg",
-		"name": "Hades II",
-		"storage_size": 6.5
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Hogwarts-Legacy-2466200.html",
-		"genre": "Rol (RPG)",
-		"id": 17,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/462ad7ecf4349518146e0dd16a027db7.jpg",
-		"name": "Hogwarts Legacy",
-		"storage_size": 18.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Hollow-Knight-1125772.html",
-		"genre": "Acción, Plataformas, Aventura",
-		"id": 18,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/d18c832e8c956b4ef8b92862e6bf470d.jpg",
-		"name": "Hollow Knight",
-		"storage_size": 4.2
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Hollow-Knight-Silksong-1575920.html",
-		"genre": "Plataformas",
-		"id": 19,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/352b19056ce934568b956d68cbcde3b5.jpg",
-		"name": "Hollow Knight Silksong",
-		"storage_size": 2.2
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/LEGO-Harry-Potter-Collection-1447078.html",
-		"genre": "Acción, Aventura",
-		"id": 20,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/995325d651aee6cbd29521321ac4c09f.jpg",
-		"name": "LEGO Harry Potter Collection",
-		"storage_size": 13.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/LEGO-Horizon-Adventures--2670620.html",
-		"genre": "Acción, Aventura",
-		"id": 21,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/102cca3f6400e932f1f802a1557f47ba.jpg",
-		"name": "LEGO Horizon Adventure",
-		"storage_size": 7.3
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Life-is-Strange-Arcadia-Bay-Collection-1987415.html",
-		"genre": "Acción, Aventura",
-		"id": 22,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/979629438b79b93da0b9679308e9a3cd.jpg",
-		"name": "Life Is Strange Remastered",
-		"storage_size": 18.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Little-Nightmares-Complete-Edition-1347594.html",
-		"genre": "Acción, Puzle, Aventura",
-		"id": 23,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/c39bfb2804dded8db959a0c87d483072.jpg",
-		"name": "Little Nightmares",
-		"storage_size": 2.9
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Little-Nightmares-II-1891827.html",
-		"genre": "Puzle, Plataformas, Aventura",
-		"id": 24,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/ce420da1dae0395f3d31b438a08e15db.jpg",
-		"name": "Little Nightmares II",
-		"storage_size": 5.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch-2/Little-Nightmares-III-2898361.html",
-		"genre": "Plataformas, Aventura",
-		"id": 25,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/393ca095fe6861771123648b9ddbdf43.jpg",
-		"name": "Little Nightmares III",
-		"storage_size": 9.5
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html",
-		"genre": "Fiesta, Carreras",
-		"id": 26,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/9cd6d894098e748716960bfcf9dbe115.jpg",
-		"name": "Mario Kart 8 Deluxe",
-		"storage_size": 12.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/New-Super-Mario-Bros-U-Deluxe-1438640.html",
-		"genre": "Plataformas",
-		"id": 27,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/7058a759bc5842ffe04c644b313da1ed.jpg",
-		"name": "New Super Mario Bros U Deluxe",
-		"storage_size": 2.6
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/NieR-Automata-The-End-of-YoRHa-Edition-2232461.html",
-		"genre": "Acción, Rol (RPG)",
-		"id": 28,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/6dc08e2dd57f32063fd0834694003042.jpg",
-		"name": "NieR Automata The End of YoRHa Edition",
-		"storage_size": 11.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Nintendo-Entertainment-System-Nintendo-Switch-Online-1434614.html",
-		"genre": "Otros",
-		"id": 29,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/091b611e35c369b0a38e3e84b21b04a8.jpg",
-		"name": "Nintendo Entertainment System",
-		"storage_size": 1.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Nintendo-Switch-Sports-2168292.html",
-		"genre": "Fiesta, Deportes, Fútbol",
-		"id": 30,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/af3ef97806448fbb6466a7d715515f49.jpg",
-		"name": "Nintendo Switch Sports",
-		"storage_size": 3.3
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/No-Man-s-Sky-2169216.html",
-		"genre": "Acción, Aventura, Simulación, Rol (RPG)",
-		"id": 31,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/c8d77146931324f4001237a93fe4ba8c.jpg",
-		"name": "No Man's Sky",
-		"storage_size": 6.9
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/OneShot-World-Machine-Edition-2210535.html",
-		"genre": "Aventura, Rol (RPG)",
-		"id": 32,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/3aa79f8a103d510b16eb9b57edd1a66c.jpg",
-		"name": "OneShot World Machine Edition",
-		"storage_size": 0.45
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Overcooked-All-You-Can-Eat-1933818.html",
-		"genre": "Simulación, Estrategia",
-		"id": 33,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/2371b099c7c6559c6bb86d5c0527ad36.jpg",
-		"name": "Overcooked! All You Can Eat",
-		"storage_size": 16.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Party-Hard-1465228.html",
-		"genre": "Puzle, Simulación, Arcade",
-		"id": 34,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/5db913f047a7130c1836652b2ee21e8e.jpg",
-		"name": "Party Hard",
-		"storage_size": 1.1
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Party-Hard-2-1839408.html",
-		"genre": "Acción, Aventura, Simulación, Estrategia",
-		"id": 35,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/a64c738021fe07be8992423b6978d448.jpg",
-		"name": "Party Hard 2",
-		"storage_size": 5.1
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Persona-5-Royal-2232781.html",
-		"genre": "Rol (RPG)",
-		"id": 36,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/78b22a52a1e53b0d2e27e6b40569793a.jpg",
-		"name": "Persona 5 Royal",
-		"storage_size": 15.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/PICO-PARK-1571671.html",
-		"genre": "Acción, Puzle",
-		"id": 37,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/770a5186b5986a2adea5cd8173898000.jpg",
-		"name": "PICO PARK",
-		"storage_size": 0.1
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/PICO-PARK-2-2639640.html",
-		"genre": "Puzle, Plataformas, Comunicación",
-		"id": 38,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/37b21e54e6159714bc6f4814f51ff971.jpg",
-		"name": "PICO PARK 2",
-		"storage_size": 0.27
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Plants-vs-Zombies-La-Batalla-de-Neighborville-Edicion-Completa-1923918.html",
-		"genre": "Acción, Aventura, Disparos (Shooter)",
-		"id": 39,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/ff4bf2b35971ab9136bf25f3419b9029.jpg",
-		"name": "Plants vs. Zombies Replanted",
-		"storage_size": 1.6
-	},
-	{
-		"eshop_link": "https://store.nintendo.es/es/leyendas-pokemon-arceus-000000000010007208",
-		"genre": "Rol (RPG)",
-		"id": 40,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/ce098cf158927e2cea10919e1e2b36a3.jpg",
-		"name": "Pokemon Legends Arceus",
-		"storage_size": 6.2
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Rocket-League--1234174.html",
-		"genre": "Acción, Deportes, Carreras",
-		"id": 41,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e4e4005042cf598805d581754fe9256f.jpg",
-		"name": "Rocket League",
-		"storage_size": 12.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Saints-Row-IV-Re-Elected--1716184.html",
-		"genre": "Acción, Disparos (Shooter)",
-		"id": 42,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/60f84107a8b3ddfdf8c67365b18e7c5e.jpg",
-		"name": "Saints Row IV Re-Elected",
-		"storage_size": 8.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Sifu-2264655.html",
-		"genre": "Acción, Lucha",
-		"id": 43,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/1a6235255cbe6083fa2c2a1b66984513.jpg",
-		"name": "Sifu",
-		"storage_size": 11.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Slime-Rancher-Plortable-Edition-2018257.html",
-		"genre": "Acción en primera persona (FPS), Aventura, Simulación",
-		"id": 44,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e62dfd885dcb4b83dda5d4e336fdf520.jpg",
-		"name": "Slime Rancher",
-		"storage_size": 1.2
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Stardew-Valley-1287587.html",
-		"genre": "Simulación, Rol (RPG)",
-		"id": 45,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/996e24639b91722571c81723760023e0.jpg",
-		"name": "Stardew Valley",
-		"storage_size": 1.7
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Super-Mario-Party-Jamboree-2591147.html",
-		"genre": "Fiesta, Tablero",
-		"id": 46,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/d8990f79de598c52139e95e819c86c8c.jpg",
-		"name": "Super Mario Party Jamboree",
-		"storage_size": 5.3
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Elder-Scrolls-V-Skyrim--1177455.html",
-		"genre": "Acción, Rol (RPG)",
-		"id": 47,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/d17f1582a4c9ae2078ae91ca7b5645ea.jpg",
-		"name": "The Elder Scrolls V: Skyrim",
-		"storage_size": 15.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Witcher-3-Wild-Hunt-Complete-Edition-1575086.html",
-		"genre": "Rol (RPG)",
-		"id": 48,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/4904f82c12cecf6ec070fe77d7e913ce.jpg",
-		"name": "The Witcher 3: Wild Hunt",
-		"storage_size": 29.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Tony-Hawk-s-Pro-Skater-1-2-1987422.html",
-		"genre": "Acción, Deportes, Otros",
-		"id": 49,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/6f39cf2c11945e47f55e60fa895d5626.jpg",
-		"name": "Tony Hawks Pro Skater 1 Plus 2",
-		"storage_size": 13.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/UNDERTALE-1347694.html",
-		"genre": "Rol (RPG)",
-		"id": 50,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/aba1e5182d973f43f2b3fd755f8e2314.jpg",
-		"name": "Undertale",
-		"storage_size": 0.17
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Unravel-Two-1523089.html",
-		"genre": "Puzle, Plataformas, Aventura",
-		"id": 51,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/9e2820cf5cac004ea701f2a1b891cac3.jpg",
-		"name": "Unravel Two",
-		"storage_size": 2.8
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Untitled-Goose-Game-1437769.html",
-		"genre": "Animales, Simulación",
-		"id": 52,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/df22702ab8f59eac4fa981a5ae651a6b.jpg",
-		"name": "Untitled Goose Game",
-		"storage_size": 0.78
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Xenoblade-Chronicles-3-2168340.html",
-		"genre": "Aventura, Rol (RPG)",
-		"id": 53,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/852fb91791ba2a97611b92ff16264b2a.jpg",
-		"name": "Xenoblade Chronicles 3",
-		"storage_size": 19.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/EA-SPORTS-FC-26-2874004.html",
-		"genre": "Deportes, Simulación",
-		"id": 54,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/f781bbe464dbc0fae27290d123f1170a.jpg",
-		"name": "FIFA 26",
-		"storage_size": 33.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/It-Takes-Two-2265759.html",
-		"genre": "Acción, Puzle, Plataformas, Aventura",
-		"id": 55,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/84d8df6932e202152767f7579f32c613.jpg",
-		"name": "It Takes Two",
-		"storage_size": 13.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html",
-		"genre": "Acción, Aventura",
-		"id": 56,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/ae758fbcbd5bd841516c53b3c08ebc6f.jpg",
-		"name": "The Legend of Zelda: Tears of the Kingdom",
-		"storage_size": 17.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Trek-to-Yomi-2331379.html",
-		"genre": "Acción",
-		"id": 57,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e36850daf77606c3976ff5a335dbfed7.jpg",
-		"name": "Trek to Yomi",
-		"storage_size": 4.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Rayman-Legends-Definitive-Edition-1176776.html",
-		"genre": "Plataformas",
-		"id": 58,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/aa01df8e6c2526116e1a7eab3f634de8.jpg",
-		"name": "Rayman Legends: Definitive Edition",
-		"storage_size": 3.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Empire-of-Sin-1575694.html",
-		"genre": "Estrategia",
-		"id": 59,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/fe3b401ec0b8824c01893a333aa2f03b.jpg",
-		"name": "Empire of Sin",
-		"storage_size": 8.8
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Catherine-Full-Body-1747973.html",
-		"genre": "Acción, Puzle",
-		"id": 60,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/3041888f78844b286564c3c576df7b96.jpg",
-		"name": "Catherine: Full Body",
-		"storage_size": 15.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Noticias/2016/octubre/Ya-en-tiendas-y-Nintendo-eShop-Just-Dance-2017-1150610.html",
-		"genre": "Baile",
-		"id": 61,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/4dad75d2365dedf73aa94b7606de7426.jpg",
-		"name": "Just Dance 2017",
-		"storage_size": 13.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Noticias/2020/noviembre/-Los-juegos-para-descargar-de-esta-semana--1872244.html",
-		"genre": "Baile",
-		"id": 62,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/5c19011af2d3bb47009a4e10a31bcba7.jpg",
-		"name": "Just Dance 2021",
-		"storage_size": 7.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Kingdom-Come-Deliverance-Royal-Edition-2524606.html",
-		"genre": "Acción, Aventura, Rol (RPG)",
-		"id": 63,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/107e5674373e2e3e4b1a0fc42b7bb190.jpg",
-		"name": "Kingdom Come Deliverance – Royal Edition",
-		"storage_size": 15.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/LEGO-Star-Wars-La-Saga-Skywalker-2157160.html",
-		"genre": "Acción",
-		"id": 64,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/39a7dc629a045a1c8e1e79b4a4214808.jpg",
-		"name": "LEGO Star Wars: La Saga Skywalker",
-		"storage_size": 20.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/MONSTER-HUNTER-RISE-1843169.html",
-		"genre": "Acción, Aventura, Rol (RPG)",
-		"id": 65,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/16f4c3b35eb22c168506c2e8a7565c4b.jpg",
-		"name": "Monster Hunter Rise: Sunbreak",
-		"storage_size": 20.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Need-for-Speed-Hot-Pursuit-Remastered-1853288.html",
-		"genre": "Carreras",
-		"id": 66,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/465a643e1d5323d7aa786bead3a20498.jpg",
-		"name": "Need for Speed Hot Pursuit Remastered",
-		"storage_size": 6.9
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/PixARK-1569926.html",
-		"genre": "Aventura, Rol (RPG)",
-		"id": 67,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/c30c0dbd40fe50ab220ade0389a7f9c3.jpg",
-		"name": "PixARK",
-		"storage_size": 2.9
-	},
-	{
-		"eshop_link": "https://store.nintendo.es/es/leyendas-pokemon-z-a-contenido-descargable-megadimensin-70070000030754",
-		"genre": "Rol (RPG)",
-		"id": 68,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e0a5caef34b7535c913610b035a2c9ab.jpg",
-		"name": "Pokémon Legends: Z-A Mega Dimension DLC",
-		"storage_size": 4.1
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Splatoon-3-1924751.html",
-		"genre": "Disparos (Shooter)",
-		"id": 69,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/9c646d25b279cfc24e329ae87ec8c2e7.jpg",
-		"name": "Splatoon 3",
-		"storage_size": 12.0
-	},
-	{
-		"eshop_link": "https://store.nintendo.es/es/super-mario-galaxy",
-		"genre": "Plataformas",
-		"id": 70,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/850660ba5cb014184e5cc0e6b3d4c6bb.png",
-		"name": "Super Mario Galaxy + Super Mario Galaxy 2",
-		"storage_size": 6.0
-	},
-	{
-		"eshop_link": "https://store.nintendo.es/es/super-mario-3d-world-bowsers-fury-70010000034440",
-		"genre": "Plataformas",
-		"id": 71,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/f68d0f2ede0595c4f3b7932f082c7375.jpg",
-		"name": "Super Mario 3D World + Bowser's Fury",
-		"storage_size": 3.0
-	},
-	{
-		"eshop_link": "https://store.nintendo.es/es/super-mario-odyssey-000000000002521281",
-		"genre": "Plataformas, Aventura",
-		"id": 72,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/505870c8848f2d550944bf64008c9472.jpg",
-		"name": "Super Mario Odyssey",
-		"storage_size": 5.8
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Contenido-descargable/Fighters-Pass-1525170.html",
-		"genre": "Lucha",
-		"id": 73,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/2ef85f2ae5e56041ded26f67e18136be.jpg",
-		"name": "Super Smash Bros. Ultimate Fighters Pass",
-		"storage_size": 18.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Terraria-1424601.html",
-		"genre": "Acción, Rol (RPG)",
-		"id": 74,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/9bc661e8362657d8cbbe4bb41d17c7f3.jpg",
-		"name": "Terraria",
-		"storage_size": 0.43
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Echoes-of-Wisdom-2590490.html",
-		"genre": "Aventura",
-		"id": 75,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/3c00fde247492525330a6174ddaa7885.jpg",
-		"name": "The Legend of Zelda: Echoes of Wisdom",
-		"storage_size": 5.6
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Breath-of-the-Wild-1173609.html",
-		"genre": "Acción, Aventura",
-		"id": 76,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/121b81f7d167ca2c24fdab4f044048f8.jpg",
-		"name": "The Legend of Zelda: Breath of the Wild",
-		"storage_size": 16.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Noticias/2025/Enero/Juegos-para-Nintendo-Switch-disponibles-en-2025-2723824.html",
-		"genre": "Rol (RPG)",
-		"id": 77,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e71353845f113574a5f7d43b8c89cdc2.jpg",
-		"name": "Dragon Quest I & II HD-2D Remake",
-		"storage_size": 8.3
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Have-A-Nice-Death-2293833.html",
-		"genre": "Acción, Plataformas, Otros",
-		"id": 78,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/1be6e41d8c84e4c3f98c202a6cd4c567.jpg",
-		"name": "Have a Nice Death",
-		"storage_size": 1.5
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Hyrule-Warriors-La-era-del-cataclismo-1838129.html",
-		"genre": "Acción, Aventura",
-		"id": 79,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/8072a178dbdc6167b19235baefba2abc.jpg",
-		"name": "Hyrule Warriors: La era del cataclismo",
-		"storage_size": 13.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/IMMORTALS-FENYX-RISING-1864799.html",
-		"genre": "Aventura",
-		"id": 80,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/8179d43b4a16df23d2e5435d85f3a5bc.jpg",
-		"name": "Immortals Fenyx Rising",
-		"storage_size": 26.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/INSIDE-1395727.html",
-		"genre": "Puzle, Aventura",
-		"id": 81,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/3240f70f7ea5d523e886a8327cd49ce9.png",
-		"name": "Inside",
-		"storage_size": 1.5
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Minecraft-1386505.html",
-		"genre": "Acción, Aventura",
-		"id": 82,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/0ed5055450adbd836945761a6fa43ee0.jpg",
-		"name": "Minecraft",
-		"storage_size": 1.5
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/NARUTO-SHIPPUDEN-Ultimate-Ninja-STORM-4-ROAD-TO-BORUTO-1728717.html",
-		"genre": "Acción, Aventura, Lucha, Rol (RPG)",
-		"id": 83,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/5bab3d30b59cbfa316cc0f6d9f8e6ac7.jpg",
-		"name": "Naruto Shippuden: Ultimate Ninja STORM 4 ROAD TO BORUTO",
-		"storage_size": 13.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Stray-2695008.html",
-		"genre": "Acción, Plataformas, Aventura",
-		"id": 84,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/5792570eae5e9fd09de1927180ff513c.jpg",
-		"name": "Stray",
-		"storage_size": 5.7
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/ULTRA-STREET-FIGHTER-II-The-Final-Challengers-1174793.html",
-		"genre": "Lucha",
-		"id": 85,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/c06cc94361053ac7248e9217a9afa04b.jpg",
-		"name": "Ultra Street Fighter II: The Final Challengers",
-		"storage_size": 2.8
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Disco-Elysium-The-Final-Cut-2045652.html",
-		"genre": "Aventura, Rol (RPG)",
-		"id": 86,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e17233dc1c4e3457d5a259c06c7eb502.jpg",
-		"name": "Disco Elysium - The Final Cut",
-		"storage_size": 7.9
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/MONOPOLY--2660027.html",
-		"genre": "Fiesta, Tablero",
-		"id": 87,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/041075b44c8eb30a5276b77ce0cda0a1.png",
-		"name": "Monopoly",
-		"storage_size": 3.7
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/The-Settlers-New-Allies-2356362.html",
-		"genre": "Simulación, Estrategia",
-		"id": 88,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/b90d45e2218319ca0ba2b252dbdefbe4.jpg",
-		"name": "The Settlers: New Allies",
-		"storage_size": 7.3
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Torchlight-III-1822757.html",
-		"genre": "Acción, Rol (RPG)",
-		"id": 89,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/d3165fff28ed4646da3d840d0ff99f7a.jpg",
-		"name": "Torchlight III",
-		"storage_size": 6.6
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Crash-Bandicoot-N-Sane-Trilogy-1347784.html",
-		"genre": "Plataformas, Acción",
-		"id": 90,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/05fd2819b5765fb2452ab05f12fc8556.jpg",
-		"name": "Crash Bandicoot N. Sane Trilogy",
-		"storage_size": 5.3
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Divinity-Original-Sin-2-Definitive-Edition-1633057.html",
-		"genre": "Rol (RPG), Aventura",
-		"id": 91,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e3fb01e3ca09eb6aff3a600159bd02c3.jpg",
-		"name": "Divinity: Original Sin 2 - Definitive Edition",
-		"storage_size": 12.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/ASTRAL-CHAIN--1513766.html",
-		"genre": "Acción, Aventura",
-		"id": 92,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e9571c97ad8514c0aa6bb199bda1427b.jpg",
-		"name": "Astral Chain",
-		"storage_size": 9.9
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Just-Dance-2018--1286991.html",
-		"genre": "Baile, Fiesta",
-		"id": 93,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/fa15046d7ae8bc5c17fec5dd60c34248.jpg",
-		"name": "Just Dance 2018",
-		"storage_size": 7.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Just-Dance-2019-1460747.html",
-		"genre": "Baile, Fiesta",
-		"id": 94,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/b6e7456aa4f1df8fca90b6cd72cd1c3a.jpg",
-		"name": "Just Dance 2019",
-		"storage_size": 8.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Just-Dance-2020-1633058.html",
-		"genre": "Baile, Fiesta",
-		"id": 95,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/6eee520b390220bbb4ac1911caf8f4d5.jpg",
-		"name": "Just Dance 2020",
-		"storage_size": 7.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Ori-and-the-Will-of-the-Wisps-1842518.html",
-		"genre": "Plataformas, Aventura",
-		"id": 96,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/7cd613b5798d0c540ba064c5f7ecc386.jpg",
-		"name": "Ori and the Will of the Wisps",
-		"storage_size": 4.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Shadow-Fight-2-2414522.html",
-		"genre": "Lucha, Acción",
-		"id": 97,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/03440368ae777a908ab20b6fb052a69e.jpg",
-		"name": "Shadow Fight 2",
-		"storage_size": 0.31
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/SUPERHOT-1569927.html",
-		"genre": "Acción, Disparos (Shooter)",
-		"id": 98,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/33ce538f76f7a4060a93caa7bfd6c8c3.jpg",
-		"name": "Superhot",
-		"storage_size": 3.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Bayonetta-Origins-Cereza-and-the-Lost-Demon-2311253.html",
-		"genre": "Acción, Aventura, Puzle",
-		"id": 99,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/3cc44660b56efe83e84f8960bcf3db0d.jpg",
-		"name": "Bayonetta Origins: Cereza and the Lost Demon",
-		"storage_size": 3.2
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Jurassic-World-Evolution-Complete-Edition-1835412.html",
-		"genre": "Estrategia, Simulación",
-		"id": 100,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/2e5663190c8682fd9d30fd0fb7d42f41.jpg",
-		"name": "Jurassic World Evolution: Complete Edition",
-		"storage_size": 5.8
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Blasphemous-2-2414523.html",
-		"genre": "Acción, Aventura, Plataformas",
-		"id": 101,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/f448516500da6c00b831b48426579f7e.jpg",
-		"name": "Blasphemous 2",
-		"storage_size": 2.6
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Dragon-s-Dogma-Dark-Arisen-1378431.html",
-		"genre": "Acción, Rol (RPG)",
-		"id": 102,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/69e53c7badd4c39bf6acd3e924cfd1ef.jpg",
-		"name": "Dragon's Dogma: Dark Arisen",
-		"storage_size": 13.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/FINAL-FANTASY-XV-POCKET-EDITION-HD-1378432.html",
-		"genre": "Aventura, Rol (RPG)",
-		"id": 103,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/f6096f8dd13f456db9ce806e41493b51.jpg",
-		"name": "Final Fantasy XV Pocket Edition",
-		"storage_size": 5.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Green-Game-TimeSwapper-1000382.html",
-		"genre": "Puzle",
-		"id": 104,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/82f4584fe9426c4a126f91b7c9ee074f.jpg",
-		"name": "Green Game: TimeSwapper",
-		"storage_size": 0.28
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Hungry-Shark-World-1424602.html",
-		"genre": "Acción, Arcade",
-		"id": 105,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/7e724bb2f51c442a9187224f578a2a89.jpg",
-		"name": "Hungry Shark World",
-		"storage_size": 2.5
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Machinarium-1569928.html",
-		"genre": "Aventura, Puzle",
-		"id": 106,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/db1ce00b036a26297e2ebe831d351359.jpg",
-		"name": "Machinarium",
-		"storage_size": 0.33
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Miraculous-Rise-of-the-Sphinx-2273834.html",
-		"genre": "Acción, Aventura",
-		"id": 107,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/ce41bdb17cf1550d37bb756e8a4734b1.jpg",
-		"name": "Miraculous: Rise of the Sphinx",
-		"storage_size": 3.8
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/OCTOPATH-TRAVELER-II-2311254.html",
-		"genre": "Rol (RPG)",
-		"id": 108,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/506f92056efcdb4572f2f31f1e6ed0bf.jpg",
-		"name": "Octopath Traveler II",
-		"storage_size": 6.1
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/OCTOPATH-TRAVELER-1275922.html",
-		"genre": "Rol (RPG)",
-		"id": 109,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e522d9f3e8c056b74f05e8f9fd249fc5.jpg",
-		"name": "Octopath Traveler",
-		"storage_size": 3.1
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Pokemon-Let-s-Go-Pikachu--1382836.html",
-		"genre": "Aventura, Rol (RPG)",
-		"id": 110,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/0d2bb68b98bd5246fe99a698c9a3aa3e.jpg",
-		"name": "Pokémon: Let's Go, Pikachu!",
-		"storage_size": 4.2
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Raft-Survival-Simulator-2512160.html",
-		"genre": "Simulación, Supervivencia",
-		"id": 111,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/1fda541638af3f204f2493bbfbbc771e.jpg",
-		"name": "Raft Survival Simulator",
-		"storage_size": 0.23
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Rooftops-Alleys-The-Parkour-Game-2695009.html",
-		"genre": "Deportes, Plataformas",
-		"id": 112,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/cabd8ed3c817f8ba34835785cb2af534.jpg",
-		"name": "Rooftops & Alleys: The Parkour Game",
-		"storage_size": 1.2
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/TOEM-A-Photo-Adventure-2045653.html",
-		"genre": "Aventura, Puzle",
-		"id": 113,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/da0ba3dfddd3b42653f4496c3213e11a.jpg",
-		"name": "TOEM: A Photo Adventure",
-		"storage_size": 0.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Beyond-a-Steel-Sky-1835413.html",
-		"genre": "Aventura, Puzle",
-		"id": 114,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/8952bb1cb44da3856b6746095c9caa51.jpg",
-		"name": "Beyond a Steel Sky",
-		"storage_size": 3.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Red-Dead-Redemption-2414525.html",
-		"genre": "Acción, Aventura",
-		"id": 115,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/94f88ceb11d0e2e52a7344dc94648c75.jpg",
-		"name": "Red Dead Redemption",
-		"storage_size": 12.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Wandering-Village-2273835.html",
-		"genre": "Estrategia, Simulación",
-		"id": 116,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/db3eac8eebfa8ec125804650f721a735.jpg",
-		"name": "The Wandering Village",
-		"storage_size": 1.4
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Outward-Definitive-Edition-2524640.html",
-		"genre": "Aventura, Rol (RPG)",
-		"id": 117,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e1509ef6a1ae3a40b8971f6b821e0577.jpg",
-		"name": "Outward Definitive Edition",
-		"storage_size": 7.9
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Salt-and-Sanctuary-1409841.html",
-		"genre": "Acción, RPG, Plataformas",
-		"id": 118,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/e26cee6aa8650fdb4189de69f24432e8.jpg",
-		"name": "Salt and Sanctuary",
-		"storage_size": 1.0
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Salt-and-Sacrifice-2477283.html",
-		"genre": "Acción, RPG, Plataformas",
-		"id": 119,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/6f2efa3621917476d772844807a26aca.jpg",
-		"name": "Salt and Sacrifice",
-		"storage_size": 1.3
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Europa-2556247.html",
-		"genre": "Acción, Aventura",
-		"id": 120,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/5a9a02b87347b300c260612707a873b1.jpg",
-		"name": "Europa",
-		"storage_size": 3.7
-	},
-	{
-		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Moonlight-Peaks-3115565.html",
-		"genre": "Simulación, Rol (RPG)",
-		"id": 121,
-		"image_url": "https://cdn2.steamgriddb.com/thumb/34238f3dace0bb40222d14686f670dbe.jpg",
-		"name": "Moonlight Peaks",
-		"storage_size": 2.5
-	}
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Assassin-s-Creed-III-Remastered-1514676.html",
+        "genre": "Acción, Aventura",
+        "id": 1,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/8dd80590af3ce146c701059534dca5ea.png",
+        "name": "Assassin's Creed III Remastered",
+        "storage_size": 12.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/ASSASSIN-S-CREED-THE-EZIO-COLLECTION-2171132.html",
+        "genre": "Acción, Aventura",
+        "id": 2,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/025776d8e7b468a1246bc3474112094f.jpg",
+        "name": "Assassins Creed The Ezio Collection",
+        "storage_size": 26.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Assassin-s-Creed-The-Rebel-Collection-1683980.html",
+        "genre": "Acción, Aventura",
+        "id": 3,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/f8fc679be1c05c7995fced1bfaf32682.jpg",
+        "name": "Assassins Creed The Rebel Collection",
+        "storage_size": 21.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Bastion-1430547.html",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 4,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/7fc9f8bceb3c54b2859cf5898f503e7d.jpg",
+        "name": "Bastion",
+        "storage_size": 0.97
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/CRISIS-CORE-FINAL-FANTASY-VII-REUNION-2265466.html",
+        "genre": "Acción, Rol (RPG)",
+        "id": 5,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/5b7f5ac976e218f368f8d7a749582d14.jpg",
+        "name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+        "storage_size": 14.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Cult-of-the-Lamb-2210770.html",
+        "genre": "Acción, Aventura, Estrategia, Simulación",
+        "id": 6,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/2a767db15ebfd4c1909892220beeb51b.jpg",
+        "name": "Cult of the Lamb",
+        "storage_size": 1.6
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Cuphead-1532319.html",
+        "genre": "Acción, Plataformas, Arcade, Disparos (Shooter)",
+        "id": 7,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/25dcf1554f13c36b512dfe907acc77d3.jpg",
+        "name": "Cuphead",
+        "storage_size": 3.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Dark-Souls-Remastered-1325790.html",
+        "genre": "Acción, Rol (RPG)",
+        "id": 8,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/fa09649961c5c38096ee815c1084b2f0.jpg",
+        "name": "Dark Souls Remastered",
+        "storage_size": 3.9
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Dead-Cells-1333359.html",
+        "genre": "Acción, Plataformas, Roguelike",
+        "id": 9,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/8f1783bd2d26fd8ea9a1dfd6af9e29bb.jpg",
+        "name": "Dead Cells",
+        "storage_size": 3.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Diablo-II-Resurrected--2042555.html",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 10,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/7cf7af6896c4b2a0c5f52595aff3aa6f.jpg",
+        "name": "Diablo II Resurrected",
+        "storage_size": 8.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Diablo-III-Eternal-Collection-1417875.html",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 11,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/0cd1f7b24ff9ab56980652a197357732.jpg",
+        "name": "Diablo III Eternal Collection",
+        "storage_size": 16.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Don-t-Starve-Together-2090479.html",
+        "genre": "Aventura, Supervivencia, Simulación",
+        "id": 12,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/433206a957cc9824ced79a5060e7918c.jpg",
+        "name": "Don’t Starve Together",
+        "storage_size": 5.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Gang-Beasts-2018249.html",
+        "genre": "Acción, Lucha",
+        "id": 13,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/072eb633b9102fc0598f1a63c809c801.jpg",
+        "name": "Gang Beasts",
+        "storage_size": 3.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Grand-Theft-Auto-The-Trilogy-The-Definitive-Edition-2064540.html",
+        "genre": "Acción, Aventura",
+        "id": 14,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/4b7890d268495230ee3f9bcd05ce3365.png",
+        "name": "Grand Theft Auto San Andreas The Definitive Edition",
+        "storage_size": 11.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Hades-1821819.html",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 15,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/bfe339860b048949369fc6945cea504d.jpg",
+        "name": "Hades",
+        "storage_size": 3.9
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Hades-II-2914566.html",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 16,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/b2c6c5b4f6992b115368bcb678c4662a.jpg",
+        "name": "Hades II",
+        "storage_size": 6.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Hogwarts-Legacy-2466200.html",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 17,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/462ad7ecf4349518146e0dd16a027db7.jpg",
+        "name": "Hogwarts Legacy",
+        "storage_size": 18.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Hollow-Knight-1125772.html",
+        "genre": "Acción, Plataformas, Aventura",
+        "id": 18,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/d18c832e8c956b4ef8b92862e6bf470d.jpg",
+        "name": "Hollow Knight",
+        "storage_size": 4.2
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Hollow-Knight-Silksong-1575920.html",
+        "genre": "Plataformas",
+        "id": 19,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/352b19056ce934568b956d68cbcde3b5.jpg",
+        "name": "Hollow Knight Silksong",
+        "storage_size": 2.2
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/LEGO-Harry-Potter-Collection-1447078.html",
+        "genre": "Acción, Aventura",
+        "id": 20,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/995325d651aee6cbd29521321ac4c09f.jpg",
+        "name": "LEGO Harry Potter Collection",
+        "storage_size": 13.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/LEGO-Horizon-Adventures--2670620.html",
+        "genre": "Acción, Aventura",
+        "id": 21,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/102cca3f6400e932f1f802a1557f47ba.jpg",
+        "name": "LEGO Horizon Adventure",
+        "storage_size": 7.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Life-is-Strange-Arcadia-Bay-Collection-1987415.html",
+        "genre": "Acción, Aventura",
+        "id": 22,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/979629438b79b93da0b9679308e9a3cd.jpg",
+        "name": "Life Is Strange Remastered",
+        "storage_size": 18.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Little-Nightmares-Complete-Edition-1347594.html",
+        "genre": "Acción, Puzle, Aventura",
+        "id": 23,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/c39bfb2804dded8db959a0c87d483072.jpg",
+        "name": "Little Nightmares",
+        "storage_size": 2.9
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Little-Nightmares-II-1891827.html",
+        "genre": "Puzle, Plataformas, Aventura",
+        "id": 24,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/ce420da1dae0395f3d31b438a08e15db.jpg",
+        "name": "Little Nightmares II",
+        "storage_size": 5.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch-2/Little-Nightmares-III-2898361.html",
+        "genre": "Plataformas, Aventura",
+        "id": 25,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/393ca095fe6861771123648b9ddbdf43.jpg",
+        "name": "Little Nightmares III",
+        "storage_size": 9.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html",
+        "genre": "Fiesta, Carreras",
+        "id": 26,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/9cd6d894098e748716960bfcf9dbe115.jpg",
+        "name": "Mario Kart 8 Deluxe",
+        "storage_size": 12.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/New-Super-Mario-Bros-U-Deluxe-1438640.html",
+        "genre": "Plataformas",
+        "id": 27,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/7058a759bc5842ffe04c644b313da1ed.jpg",
+        "name": "New Super Mario Bros U Deluxe",
+        "storage_size": 2.6
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/NieR-Automata-The-End-of-YoRHa-Edition-2232461.html",
+        "genre": "Acción, Rol (RPG)",
+        "id": 28,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/6dc08e2dd57f32063fd0834694003042.jpg",
+        "name": "NieR Automata The End of YoRHa Edition",
+        "storage_size": 11.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Nintendo-Entertainment-System-Nintendo-Switch-Online-1434614.html",
+        "genre": "Acción, Plataformas, Clásico",
+        "id": 29,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/091b611e35c369b0a38e3e84b21b04a8.jpg",
+        "name": "Nintendo Entertainment System",
+        "storage_size": 1.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Nintendo-Switch-Sports-2168292.html",
+        "genre": "Fiesta, Deportes, Fútbol",
+        "id": 30,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/af3ef97806448fbb6466a7d715515f49.jpg",
+        "name": "Nintendo Switch Sports",
+        "storage_size": 3.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/No-Man-s-Sky-2169216.html",
+        "genre": "Acción, Aventura, Simulación, Rol (RPG)",
+        "id": 31,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/c8d77146931324f4001237a93fe4ba8c.jpg",
+        "name": "No Man's Sky",
+        "storage_size": 6.9
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/OneShot-World-Machine-Edition-2210535.html",
+        "genre": "Aventura, Rol (RPG)",
+        "id": 32,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/3aa79f8a103d510b16eb9b57edd1a66c.jpg",
+        "name": "OneShot World Machine Edition",
+        "storage_size": 0.45
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Overcooked-All-You-Can-Eat-1933818.html",
+        "genre": "Simulación, Estrategia",
+        "id": 33,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/2371b099c7c6559c6bb86d5c0527ad36.jpg",
+        "name": "Overcooked! All You Can Eat",
+        "storage_size": 16.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Party-Hard-1465228.html",
+        "genre": "Puzle, Simulación, Arcade",
+        "id": 34,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/5db913f047a7130c1836652b2ee21e8e.jpg",
+        "name": "Party Hard",
+        "storage_size": 1.1
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Party-Hard-2-1839408.html",
+        "genre": "Acción, Aventura, Simulación, Estrategia",
+        "id": 35,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/a64c738021fe07be8992423b6978d448.jpg",
+        "name": "Party Hard 2",
+        "storage_size": 5.1
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Persona-5-Royal-2232781.html",
+        "genre": "Rol (RPG)",
+        "id": 36,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/78b22a52a1e53b0d2e27e6b40569793a.jpg",
+        "name": "Persona 5 Royal",
+        "storage_size": 15.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/PICO-PARK-1571671.html",
+        "genre": "Acción, Puzle",
+        "id": 37,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/770a5186b5986a2adea5cd8173898000.jpg",
+        "name": "PICO PARK",
+        "storage_size": 0.1
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/PICO-PARK-2-2639640.html",
+        "genre": "Puzle, Plataformas, Comunicación",
+        "id": 38,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/37b21e54e6159714bc6f4814f51ff971.jpg",
+        "name": "PICO PARK 2",
+        "storage_size": 0.27
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Plants-vs-Zombies-La-Batalla-de-Neighborville-Edicion-Completa-1923918.html",
+        "genre": "Acción, Aventura, Disparos (Shooter)",
+        "id": 39,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/ff4bf2b35971ab9136bf25f3419b9029.jpg",
+        "name": "Plants vs. Zombies Replanted",
+        "storage_size": 1.6
+    },
+    {
+        "eshop_link": "https://store.nintendo.es/es/leyendas-pokemon-arceus-000000000010007208",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 40,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/ce098cf158927e2cea10919e1e2b36a3.jpg",
+        "name": "Pokemon Legends Arceus",
+        "storage_size": 6.2
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Rocket-League--1234174.html",
+        "genre": "Acción, Deportes, Carreras",
+        "id": 41,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e4e4005042cf598805d581754fe9256f.jpg",
+        "name": "Rocket League",
+        "storage_size": 12.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Saints-Row-IV-Re-Elected--1716184.html",
+        "genre": "Acción, Disparos (Shooter)",
+        "id": 42,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/60f84107a8b3ddfdf8c67365b18e7c5e.jpg",
+        "name": "Saints Row IV Re-Elected",
+        "storage_size": 8.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Sifu-2264655.html",
+        "genre": "Acción, Lucha",
+        "id": 43,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/1a6235255cbe6083fa2c2a1b66984513.jpg",
+        "name": "Sifu",
+        "storage_size": 11.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Slime-Rancher-Plortable-Edition-2018257.html",
+        "genre": "Acción en primera persona (FPS), Aventura, Simulación",
+        "id": 44,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e62dfd885dcb4b83dda5d4e336fdf520.jpg",
+        "name": "Slime Rancher",
+        "storage_size": 1.2
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Stardew-Valley-1287587.html",
+        "genre": "Simulación, Rol (RPG)",
+        "id": 45,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/996e24639b91722571c81723760023e0.jpg",
+        "name": "Stardew Valley",
+        "storage_size": 1.7
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Super-Mario-Party-Jamboree-2591147.html",
+        "genre": "Fiesta, Tablero",
+        "id": 46,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/d8990f79de598c52139e95e819c86c8c.jpg",
+        "name": "Super Mario Party Jamboree",
+        "storage_size": 5.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Elder-Scrolls-V-Skyrim--1177455.html",
+        "genre": "Acción, Rol (RPG)",
+        "id": 47,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/d17f1582a4c9ae2078ae91ca7b5645ea.jpg",
+        "name": "The Elder Scrolls V: Skyrim",
+        "storage_size": 15.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Witcher-3-Wild-Hunt-Complete-Edition-1575086.html",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 48,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/4904f82c12cecf6ec070fe77d7e913ce.jpg",
+        "name": "The Witcher 3: Wild Hunt",
+        "storage_size": 29.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Tony-Hawk-s-Pro-Skater-1-2-1987422.html",
+        "genre": "Acción, Deportes, Arcade",
+        "id": 49,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/6f39cf2c11945e47f55e60fa895d5626.jpg",
+        "name": "Tony Hawks Pro Skater 1 Plus 2",
+        "storage_size": 13.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/UNDERTALE-1347694.html",
+        "genre": "Rol (RPG), Aventura, Puzle",
+        "id": 50,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/aba1e5182d973f43f2b3fd755f8e2314.jpg",
+        "name": "Undertale",
+        "storage_size": 0.17
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Unravel-Two-1523089.html",
+        "genre": "Puzle, Plataformas, Aventura",
+        "id": 51,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/9e2820cf5cac004ea701f2a1b891cac3.jpg",
+        "name": "Unravel Two",
+        "storage_size": 2.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Untitled-Goose-Game-1437769.html",
+        "genre": "Animales, Simulación",
+        "id": 52,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/df22702ab8f59eac4fa981a5ae651a6b.jpg",
+        "name": "Untitled Goose Game",
+        "storage_size": 0.78
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Xenoblade-Chronicles-3-2168340.html",
+        "genre": "Aventura, Rol (RPG)",
+        "id": 53,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/852fb91791ba2a97611b92ff16264b2a.jpg",
+        "name": "Xenoblade Chronicles 3",
+        "storage_size": 19.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/EA-SPORTS-FC-26-2874004.html",
+        "genre": "Deportes, Simulación",
+        "id": 54,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/f781bbe464dbc0fae27290d123f1170a.jpg",
+        "name": "FIFA 26",
+        "storage_size": 33.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/It-Takes-Two-2265759.html",
+        "genre": "Acción, Puzle, Plataformas, Aventura",
+        "id": 55,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/84d8df6932e202152767f7579f32c613.jpg",
+        "name": "It Takes Two",
+        "storage_size": 13.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html",
+        "genre": "Acción, Aventura",
+        "id": 56,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/ae758fbcbd5bd841516c53b3c08ebc6f.jpg",
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "storage_size": 17.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Trek-to-Yomi-2331379.html",
+        "genre": "Acción",
+        "id": 57,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e36850daf77606c3976ff5a335dbfed7.jpg",
+        "name": "Trek to Yomi",
+        "storage_size": 4.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Rayman-Legends-Definitive-Edition-1176776.html",
+        "genre": "Plataformas",
+        "id": 58,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/aa01df8e6c2526116e1a7eab3f634de8.jpg",
+        "name": "Rayman Legends: Definitive Edition",
+        "storage_size": 3.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Empire-of-Sin-1575694.html",
+        "genre": "Estrategia",
+        "id": 59,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/fe3b401ec0b8824c01893a333aa2f03b.jpg",
+        "name": "Empire of Sin",
+        "storage_size": 8.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Catherine-Full-Body-1747973.html",
+        "genre": "Acción, Puzle",
+        "id": 60,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/3041888f78844b286564c3c576df7b96.jpg",
+        "name": "Catherine: Full Body",
+        "storage_size": 15.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Noticias/2016/octubre/Ya-en-tiendas-y-Nintendo-eShop-Just-Dance-2017-1150610.html",
+        "genre": "Baile, Fiesta",
+        "id": 61,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/4dad75d2365dedf73aa94b7606de7426.jpg",
+        "name": "Just Dance 2017",
+        "storage_size": 13.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Noticias/2020/noviembre/-Los-juegos-para-descargar-de-esta-semana--1872244.html",
+        "genre": "Baile, Fiesta",
+        "id": 62,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/5c19011af2d3bb47009a4e10a31bcba7.jpg",
+        "name": "Just Dance 2021",
+        "storage_size": 7.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Kingdom-Come-Deliverance-Royal-Edition-2524606.html",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 63,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/107e5674373e2e3e4b1a0fc42b7bb190.jpg",
+        "name": "Kingdom Come Deliverance – Royal Edition",
+        "storage_size": 15.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/LEGO-Star-Wars-La-Saga-Skywalker-2157160.html",
+        "genre": "Acción, Aventura, Puzle",
+        "id": 64,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/39a7dc629a045a1c8e1e79b4a4214808.jpg",
+        "name": "LEGO Star Wars: La Saga Skywalker",
+        "storage_size": 20.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/MONSTER-HUNTER-RISE-1843169.html",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 65,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/16f4c3b35eb22c168506c2e8a7565c4b.jpg",
+        "name": "Monster Hunter Rise: Sunbreak",
+        "storage_size": 20.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Need-for-Speed-Hot-Pursuit-Remastered-1853288.html",
+        "genre": "Carreras",
+        "id": 66,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/465a643e1d5323d7aa786bead3a20498.jpg",
+        "name": "Need for Speed Hot Pursuit Remastered",
+        "storage_size": 6.9
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/PixARK-1569926.html",
+        "genre": "Aventura, Rol (RPG)",
+        "id": 67,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/c30c0dbd40fe50ab220ade0389a7f9c3.jpg",
+        "name": "PixARK",
+        "storage_size": 2.9
+    },
+    {
+        "eshop_link": "https://store.nintendo.es/es/leyendas-pokemon-z-a-contenido-descargable-megadimensin-70070000030754",
+        "genre": "Acción, Aventura, Rol (RPG)",
+        "id": 68,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e0a5caef34b7535c913610b035a2c9ab.jpg",
+        "name": "Pokémon Legends: Z-A Mega Dimension DLC",
+        "storage_size": 4.1
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Splatoon-3-1924751.html",
+        "genre": "Acción, Disparos (Shooter), Multijugador",
+        "id": 69,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/9c646d25b279cfc24e329ae87ec8c2e7.jpg",
+        "name": "Splatoon 3",
+        "storage_size": 12.0
+    },
+    {
+        "eshop_link": "https://store.nintendo.es/es/super-mario-galaxy",
+        "genre": "Plataformas, Aventura",
+        "id": 70,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/850660ba5cb014184e5cc0e6b3d4c6bb.png",
+        "name": "Super Mario Galaxy + Super Mario Galaxy 2",
+        "storage_size": 6.0
+    },
+    {
+        "eshop_link": "https://store.nintendo.es/es/super-mario-3d-world-bowsers-fury-70010000034440",
+        "genre": "Plataformas, Aventura, Multijugador",
+        "id": 71,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/f68d0f2ede0595c4f3b7932f082c7375.jpg",
+        "name": "Super Mario 3D World + Bowser's Fury",
+        "storage_size": 3.0
+    },
+    {
+        "eshop_link": "https://store.nintendo.es/es/super-mario-odyssey-000000000002521281",
+        "genre": "Plataformas, Aventura",
+        "id": 72,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/505870c8848f2d550944bf64008c9472.jpg",
+        "name": "Super Mario Odyssey",
+        "storage_size": 5.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Contenido-descargable/Fighters-Pass-1525170.html",
+        "genre": "Lucha, Acción, Fiesta",
+        "id": 73,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/2ef85f2ae5e56041ded26f67e18136be.jpg",
+        "name": "Super Smash Bros. Ultimate Fighters Pass",
+        "storage_size": 18.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Terraria-1424601.html",
+        "genre": "Acción, Rol (RPG)",
+        "id": 74,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/9bc661e8362657d8cbbe4bb41d17c7f3.jpg",
+        "name": "Terraria",
+        "storage_size": 0.43
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Echoes-of-Wisdom-2590490.html",
+        "genre": "Aventura",
+        "id": 75,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/3c00fde247492525330a6174ddaa7885.jpg",
+        "name": "The Legend of Zelda: Echoes of Wisdom",
+        "storage_size": 5.6
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Breath-of-the-Wild-1173609.html",
+        "genre": "Acción, Aventura",
+        "id": 76,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/121b81f7d167ca2c24fdab4f044048f8.jpg",
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "storage_size": 16.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Noticias/2025/Enero/Juegos-para-Nintendo-Switch-disponibles-en-2025-2723824.html",
+        "genre": "Rol (RPG), Aventura",
+        "id": 77,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e71353845f113574a5f7d43b8c89cdc2.jpg",
+        "name": "Dragon Quest I & II HD-2D Remake",
+        "storage_size": 8.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Have-A-Nice-Death-2293833.html",
+        "genre": "Acción, Plataformas, Roguelike",
+        "id": 78,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/1be6e41d8c84e4c3f98c202a6cd4c567.jpg",
+        "name": "Have a Nice Death",
+        "storage_size": 1.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Hyrule-Warriors-La-era-del-cataclismo-1838129.html",
+        "genre": "Acción, Aventura",
+        "id": 79,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/8072a178dbdc6167b19235baefba2abc.jpg",
+        "name": "Hyrule Warriors: La era del cataclismo",
+        "storage_size": 13.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/IMMORTALS-FENYX-RISING-1864799.html",
+        "genre": "Aventura",
+        "id": 80,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/8179d43b4a16df23d2e5435d85f3a5bc.jpg",
+        "name": "Immortals Fenyx Rising",
+        "storage_size": 26.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/INSIDE-1395727.html",
+        "genre": "Puzle, Aventura",
+        "id": 81,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/3240f70f7ea5d523e886a8327cd49ce9.png",
+        "name": "Inside",
+        "storage_size": 1.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Minecraft-1386505.html",
+        "genre": "Acción, Aventura, Simulación, Supervivencia",
+        "id": 82,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/0ed5055450adbd836945761a6fa43ee0.jpg",
+        "name": "Minecraft",
+        "storage_size": 1.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/NARUTO-SHIPPUDEN-Ultimate-Ninja-STORM-4-ROAD-TO-BORUTO-1728717.html",
+        "genre": "Acción, Aventura, Lucha, Rol (RPG)",
+        "id": 83,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/5bab3d30b59cbfa316cc0f6d9f8e6ac7.jpg",
+        "name": "Naruto Shippuden: Ultimate Ninja STORM 4 ROAD TO BORUTO",
+        "storage_size": 13.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Stray-2695008.html",
+        "genre": "Acción, Plataformas, Aventura",
+        "id": 84,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/5792570eae5e9fd09de1927180ff513c.jpg",
+        "name": "Stray",
+        "storage_size": 5.7
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/ULTRA-STREET-FIGHTER-II-The-Final-Challengers-1174793.html",
+        "genre": "Lucha",
+        "id": 85,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/c06cc94361053ac7248e9217a9afa04b.jpg",
+        "name": "Ultra Street Fighter II: The Final Challengers",
+        "storage_size": 2.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Disco-Elysium-The-Final-Cut-2045652.html",
+        "genre": "Aventura, Rol (RPG)",
+        "id": 86,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e17233dc1c4e3457d5a259c06c7eb502.jpg",
+        "name": "Disco Elysium - The Final Cut",
+        "storage_size": 7.9
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/MONOPOLY--2660027.html",
+        "genre": "Fiesta, Tablero",
+        "id": 87,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/041075b44c8eb30a5276b77ce0cda0a1.png",
+        "name": "Monopoly",
+        "storage_size": 3.7
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/The-Settlers-New-Allies-2356362.html",
+        "genre": "Simulación, Estrategia",
+        "id": 88,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/b90d45e2218319ca0ba2b252dbdefbe4.jpg",
+        "name": "The Settlers: New Allies",
+        "storage_size": 7.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Torchlight-III-1822757.html",
+        "genre": "Acción, Rol (RPG)",
+        "id": 89,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/d3165fff28ed4646da3d840d0ff99f7a.jpg",
+        "name": "Torchlight III",
+        "storage_size": 6.6
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Crash-Bandicoot-N-Sane-Trilogy-1347784.html",
+        "genre": "Plataformas, Acción",
+        "id": 90,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/05fd2819b5765fb2452ab05f12fc8556.jpg",
+        "name": "Crash Bandicoot N. Sane Trilogy",
+        "storage_size": 5.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Divinity-Original-Sin-2-Definitive-Edition-1633057.html",
+        "genre": "Rol (RPG), Aventura",
+        "id": 91,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e3fb01e3ca09eb6aff3a600159bd02c3.jpg",
+        "name": "Divinity: Original Sin 2 - Definitive Edition",
+        "storage_size": 12.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/ASTRAL-CHAIN--1513766.html",
+        "genre": "Acción, Aventura",
+        "id": 92,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e9571c97ad8514c0aa6bb199bda1427b.jpg",
+        "name": "Astral Chain",
+        "storage_size": 9.9
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Just-Dance-2018--1286991.html",
+        "genre": "Baile, Fiesta",
+        "id": 93,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/fa15046d7ae8bc5c17fec5dd60c34248.jpg",
+        "name": "Just Dance 2018",
+        "storage_size": 7.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Just-Dance-2019-1460747.html",
+        "genre": "Baile, Fiesta",
+        "id": 94,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/b6e7456aa4f1df8fca90b6cd72cd1c3a.jpg",
+        "name": "Just Dance 2019",
+        "storage_size": 8.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Just-Dance-2020-1633058.html",
+        "genre": "Baile, Fiesta",
+        "id": 95,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/6eee520b390220bbb4ac1911caf8f4d5.jpg",
+        "name": "Just Dance 2020",
+        "storage_size": 7.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Ori-and-the-Will-of-the-Wisps-1842518.html",
+        "genre": "Plataformas, Aventura",
+        "id": 96,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/7cd613b5798d0c540ba064c5f7ecc386.jpg",
+        "name": "Ori and the Will of the Wisps",
+        "storage_size": 4.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Shadow-Fight-2-2414522.html",
+        "genre": "Lucha, Acción",
+        "id": 97,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/03440368ae777a908ab20b6fb052a69e.jpg",
+        "name": "Shadow Fight 2",
+        "storage_size": 0.31
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/SUPERHOT-1569927.html",
+        "genre": "Acción, Disparos (Shooter)",
+        "id": 98,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/33ce538f76f7a4060a93caa7bfd6c8c3.jpg",
+        "name": "Superhot",
+        "storage_size": 3.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Bayonetta-Origins-Cereza-and-the-Lost-Demon-2311253.html",
+        "genre": "Acción, Aventura, Puzle",
+        "id": 99,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/3cc44660b56efe83e84f8960bcf3db0d.jpg",
+        "name": "Bayonetta Origins: Cereza and the Lost Demon",
+        "storage_size": 3.2
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Jurassic-World-Evolution-Complete-Edition-1835412.html",
+        "genre": "Estrategia, Simulación",
+        "id": 100,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/2e5663190c8682fd9d30fd0fb7d42f41.jpg",
+        "name": "Jurassic World Evolution: Complete Edition",
+        "storage_size": 5.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Blasphemous-2-2414523.html",
+        "genre": "Acción, Aventura, Plataformas",
+        "id": 101,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/f448516500da6c00b831b48426579f7e.jpg",
+        "name": "Blasphemous 2",
+        "storage_size": 2.6
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Dragon-s-Dogma-Dark-Arisen-1378431.html",
+        "genre": "Acción, Rol (RPG)",
+        "id": 102,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/69e53c7badd4c39bf6acd3e924cfd1ef.jpg",
+        "name": "Dragon's Dogma: Dark Arisen",
+        "storage_size": 13.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/FINAL-FANTASY-XV-POCKET-EDITION-HD-1378432.html",
+        "genre": "Aventura, Rol (RPG)",
+        "id": 103,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/f6096f8dd13f456db9ce806e41493b51.jpg",
+        "name": "Final Fantasy XV Pocket Edition",
+        "storage_size": 5.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Green-Game-TimeSwapper-1000382.html",
+        "genre": "Puzle",
+        "id": 104,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/82f4584fe9426c4a126f91b7c9ee074f.jpg",
+        "name": "Green Game: TimeSwapper",
+        "storage_size": 0.28
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Hungry-Shark-World-1424602.html",
+        "genre": "Acción, Arcade",
+        "id": 105,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/7e724bb2f51c442a9187224f578a2a89.jpg",
+        "name": "Hungry Shark World",
+        "storage_size": 2.5
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Machinarium-1569928.html",
+        "genre": "Aventura, Puzle",
+        "id": 106,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/db1ce00b036a26297e2ebe831d351359.jpg",
+        "name": "Machinarium",
+        "storage_size": 0.33
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Miraculous-Rise-of-the-Sphinx-2273834.html",
+        "genre": "Acción, Aventura",
+        "id": 107,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/ce41bdb17cf1550d37bb756e8a4734b1.jpg",
+        "name": "Miraculous: Rise of the Sphinx",
+        "storage_size": 3.8
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/OCTOPATH-TRAVELER-II-2311254.html",
+        "genre": "Rol (RPG)",
+        "id": 108,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/506f92056efcdb4572f2f31f1e6ed0bf.jpg",
+        "name": "Octopath Traveler II",
+        "storage_size": 6.1
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/OCTOPATH-TRAVELER-1275922.html",
+        "genre": "Rol (RPG)",
+        "id": 109,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e522d9f3e8c056b74f05e8f9fd249fc5.jpg",
+        "name": "Octopath Traveler",
+        "storage_size": 3.1
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Nintendo-Switch/Pokemon-Let-s-Go-Pikachu--1382836.html",
+        "genre": "Aventura, Rol (RPG)",
+        "id": 110,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/0d2bb68b98bd5246fe99a698c9a3aa3e.jpg",
+        "name": "Pokémon: Let's Go, Pikachu!",
+        "storage_size": 4.2
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Raft-Survival-Simulator-2512160.html",
+        "genre": "Simulación, Supervivencia",
+        "id": 111,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/1fda541638af3f204f2493bbfbbc771e.jpg",
+        "name": "Raft Survival Simulator",
+        "storage_size": 0.23
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Rooftops-Alleys-The-Parkour-Game-2695009.html",
+        "genre": "Deportes, Plataformas",
+        "id": 112,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/cabd8ed3c817f8ba34835785cb2af534.jpg",
+        "name": "Rooftops & Alleys: The Parkour Game",
+        "storage_size": 1.2
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/TOEM-A-Photo-Adventure-2045653.html",
+        "genre": "Aventura, Puzle",
+        "id": 113,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/da0ba3dfddd3b42653f4496c3213e11a.jpg",
+        "name": "TOEM: A Photo Adventure",
+        "storage_size": 0.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Beyond-a-Steel-Sky-1835413.html",
+        "genre": "Aventura, Puzle",
+        "id": 114,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/8952bb1cb44da3856b6746095c9caa51.jpg",
+        "name": "Beyond a Steel Sky",
+        "storage_size": 3.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Red-Dead-Redemption-2414525.html",
+        "genre": "Acción, Aventura",
+        "id": 115,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/94f88ceb11d0e2e52a7344dc94648c75.jpg",
+        "name": "Red Dead Redemption",
+        "storage_size": 12.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Wandering-Village-2273835.html",
+        "genre": "Estrategia, Simulación",
+        "id": 116,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/db3eac8eebfa8ec125804650f721a735.jpg",
+        "name": "The Wandering Village",
+        "storage_size": 1.4
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Outward-Definitive-Edition-2524640.html",
+        "genre": "Aventura, Rol (RPG), Supervivencia",
+        "id": 117,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e1509ef6a1ae3a40b8971f6b821e0577.jpg",
+        "name": "Outward Definitive Edition",
+        "storage_size": 7.9
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Salt-and-Sanctuary-1409841.html",
+        "genre": "Acción, RPG, Plataformas",
+        "id": 118,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/e26cee6aa8650fdb4189de69f24432e8.jpg",
+        "name": "Salt and Sanctuary",
+        "storage_size": 1.0
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Salt-and-Sacrifice-2477283.html",
+        "genre": "Acción, RPG, Plataformas",
+        "id": 119,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/6f2efa3621917476d772844807a26aca.jpg",
+        "name": "Salt and Sacrifice",
+        "storage_size": 1.3
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Europa-2556247.html",
+        "genre": "Acción, Aventura",
+        "id": 120,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/5a9a02b87347b300c260612707a873b1.jpg",
+        "name": "Europa",
+        "storage_size": 3.7
+    },
+    {
+        "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Moonlight-Peaks-3115565.html",
+        "genre": "Simulación, Rol (RPG)",
+        "id": 121,
+        "image_url": "https://cdn2.steamgriddb.com/thumb/34238f3dace0bb40222d14686f670dbe.jpg",
+        "name": "Moonlight Peaks",
+        "storage_size": 2.5
+    }
 ]
