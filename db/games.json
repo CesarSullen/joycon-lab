@@ -1014,5 +1014,37 @@
 		"image_url": "https://cdn2.steamgriddb.com/thumb/4b3679dc5b8acc700c090ab2d05d767a.jpg",
 		"name": "Monster Sanctuary",
 		"storage_size": 0.635
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Ni-No-Kuni-Remastered-Wrath-of-the-White-Witch-1575919.html",
+		"genre": "Rol (RPG), Aventura",
+		"id": 128,
+		"image_url": "https://cdn2.steamgriddb.com/thumb/33d9bf495ca0d6de25068d635f7de48b.jpg",
+		"name": "Ni no Kuni: Wrath of the White Witch",
+		"storage_size": 5.9
+	},
+	{
+		"eshop_link": "",
+		"genre": "Simulación",
+		"id": 129,
+		"image_url": "https://cdn2.steamgriddb.com/thumb/f654ac8fb6c07d0a3107d5c8247bd3cb.jpg",
+		"name": "Bunny Garden 2",
+		"storage_size": 7.5
+	},
+	{
+		"eshop_link": "",
+		"genre": "Acción, Aventura",
+		"id": 130,
+		"image_url": "https://cdn2.steamgriddb.com/thumb/af0a25e27510f77d97634a6bbe653b13.jpg",
+		"name": "GTA V",
+		"storage_size": 50
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/The-Rogue-Prince-of-Persia--2983572.html",
+		"genre": "Acción, Plataformas",
+		"id": 131,
+		"image_url": "https://cdn2.steamgriddb.com/thumb/1e6b4ddd2f7b6bdd181aac3af9961539.jpg",
+		"name": "The Rogue Prince of Persia",
+		"storage_size": 1.6
 	}
 ]
