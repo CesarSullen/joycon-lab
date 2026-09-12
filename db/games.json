@@ -1046,5 +1046,45 @@
 		"image_url": "https://cdn2.steamgriddb.com/thumb/1e6b4ddd2f7b6bdd181aac3af9961539.jpg",
 		"name": "The Rogue Prince of Persia",
 		"storage_size": 1.6
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/D-topia-3116063.html",
+		"genre": "Simulación, Estrategia",
+		"id": 132,
+		"image_url": "https://cdn2.steamgriddb.com/thumb/2201184c174084c9e455a23931a34287.jpg",
+		"name": "D-topia",
+		"storage_size": 1.3
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Kingdom-Rush-Frontiers-1720963.html",
+		"genre": "Estrategia",
+		"id": 133,
+		"image_url": "https://cdn2.steamgriddb.com/thumb/faf09fa0787b8fbf8044049b6ba3572a.jpg",
+		"name": "Kingdom Rush Frontiers",
+		"storage_size": 0.408
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Leafy-Corner-3126188.html",
+		"genre": "Simulación",
+		"id": 134,
+		"image_url": "https://cdn2.steamgriddb.com/thumb/c6936f77f9dd8d29c148ebd627b5a624.jpg",
+		"name": "Leafy Corner",
+		"storage_size": 0.378
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Pokemon-LeafGreen-Version-3031289.html",
+		"genre": "Aventura, Rol (RPG)",
+		"id": 135,
+		"image_url": "https://cdn2.steamgriddb.com/thumb/8cc10a343f7cacddbbc5488786f3f22b.jpg",
+		"name": "Pokemon LeafGreen Version",
+		"storage_size": 0.016
+	},
+	{
+		"eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Pokemon-FireRed-Version-3031207.html",
+		"genre": "Aventura, Rol (RPG)",
+		"id": 136,
+		"image_url": "https://cdn2.steamgriddb.com/thumb/02364616164166b84371270ca2e6eda2.png",
+		"name": "Pokemon FireRed Version",
+		"storage_size": 0.016
 	}
 ]
