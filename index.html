@@ -1,154 +1,154 @@
 <!doctype html>
 <html lang="es">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="description" content="Catálogo de Juegos de Nintendo Switch" />
-		<meta property="og:title" content="Joy-Con Lab" />
-		<meta
-			property="og:description"
-			content="Catálogo de Juegos de Nintendo Switch"
-		/>
-		<meta property="og:type" content="website" />
-		<meta property="og:image" content="./assets/opengraph/opengraph.jpg" />
-		<meta name="theme-color" content="#ADD4D5" />
-		<meta
-			name="apple-mobile-web-app-status-bar-style"
-			content="black-translucent"
-		/>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Catálogo de Juegos de Nintendo Switch" />
+    <meta property="og:title" content="Joy-Con Lab" />
+    <meta
+      property="og:description"
+      content="Catálogo de Juegos de Nintendo Switch"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="./assets/opengraph/opengraph.jpg" />
+    <meta name="theme-color" content="#ADD4D5" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
 
-		<link rel="icon" type="image/png" href="./assets/opengraph/logo.png" />
-		<link
-			rel="apple-touch-icon"
-			sizes="180x180"
-			href="./assets/opengraph/logo.png"
-		/>
-		<link rel="stylesheet" href="./css/style.css" />
-		<title>Joy-Con Lab</title>
-	</head>
-	<body id="body">
-		<header id="hero" class="hero">
-			<div class="corner-logo show-down">
-				<img src="./assets/opengraph/logo-no-bg.png" alt="Joy-Con Lab" />
-				<p>Joy-Con Lab</p>
-			</div>
+    <link rel="icon" type="image/png" href="./assets/opengraph/logo.png" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="./assets/opengraph/logo.png"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Joy-Con Lab</title>
+  </head>
+  <body id="body">
+    <header id="hero" class="hero">
+      <div class="corner-logo show-down">
+        <img src="./assets/opengraph/logo-no-bg.png" alt="Joy-Con Lab" />
+        <p>Joy-Con Lab</p>
+      </div>
 
-			<div class="hero-shadow"></div>
-			<div class="hero-content">
-				<div class="hero-text show-up">
-					<h1 class="hero-title">
-						Bienvenido a <br />
-						<span class="primary-color-text">Joy</span
-						><span class="secondary-color-text">-Con</span>
-						Lab
-					</h1>
-				</div>
-				<div class="cta-section">
-					<a href="./" class="cta-link">
-						<img
-							class="cta-btn bounce-in"
-							src="./assets/icons/house-bold.svg"
-							alt="Inicio"
-						/>
-					</a>
-					<a href="#catalog-section" class="cta-link">
-						<img
-							class="cta-btn bounce-in"
-							src="./assets/icons/game-controller-bold.svg"
-							alt="Catálogo"
-						/>
-					</a>
-					<a
-						href="https://wa.me/5351643954?text=Hola,%20escriba%20su%20mensaje%20aquí."
-						target="_blank"
-						rel="noopener noreferrer"
-						class="cta-link"
-					>
-						<img
-							class="cta-btn bounce-in"
-							src="./assets/icons/envelope-simple-bold.svg"
-							alt="Contacto"
-						/>
-					</a>
-					<button
-						type="button"
-						id="favorites-btn"
-						class="cta-link"
-						aria-haspopup="dialog"
-						aria-controls="favorites-modal"
-					>
-						<img
-							class="cta-btn bounce-in"
-							src="./assets/icons/heart-straight-bold.svg"
-							alt="Favoritos"
-						/>
-					</button>
-				</div>
-				<div class="update-info bounce-in">
-					<h3>ultima actualización</h3>
-					<h4>12/09/2026</h4>
-				</div>
-				<a href="#filters-section" class="scroll-icon">❯</a>
-			</div>
-		</header>
-		<div class="body-content">
-			<section id="filters-section" class="filters-section">
-				<div class="filters">
-					<input
-						type="text"
-						id="search-bar"
-						class="search-bar"
-						placeholder="Buscar juegos o géneros..."
-					/>
-					<button
-						id="sort-btn"
-						class="sort-btn"
-						type="button"
-						aria-expanded="false"
-						aria-controls="sort-options"
-					>
-						<img src="./assets/icons/funnel-simple-bold.svg" alt="Filtrar" />
-					</button>
-					<div class="sort-dropdown">
-						<ul id="sort-options" class="sort-options hidden bounce-in">
-							<li data-sort="name-asc">Nombre A–Z</li>
-							<li data-sort="name-desc">Nombre Z–A</li>
-							<li data-sort="size-asc">Tamaño ↑</li>
-							<li data-sort="size-desc">Tamaño ↓</li>
-							<li data-sort="recent">Más recientes</li>
-						</ul>
-					</div>
-				</div>
-			</section>
-			<!-- Catalog -->
-			<section id="catalog-section" class="catalog-section">
-				<main id="games-grid" class="games-grid"></main>
-			</section>
-		</div>
-		<div
-			id="favorites-modal"
-			class="favorites-modal"
-			role="dialog"
-			aria-modal="true"
-			aria-labelledby="favorites-modal-title"
-		>
-			<div class="favorites-modal-box">
-				<div class="favorites-modal-header">
-					<h2 id="favorites-modal-title">Favoritos</h2>
-					<button
-						type="button"
-						id="favorites-close-btn"
-						class="favorites-close-btn"
-						aria-label="Cerrar"
-					>
-						✕
-					</button>
-				</div>
-				<ul id="favorites-list" class="favorites-list"></ul>
-			</div>
-		</div>
-		<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-		<script src="./js/supabase-config.js"></script>
-		<script src="./js/main.js"></script>
-	</body>
+      <div class="hero-shadow"></div>
+      <div class="hero-content">
+        <div class="hero-text show-up">
+          <h1 class="hero-title">
+            Bienvenido a <br />
+            <span class="primary-color-text">Joy</span
+            ><span class="secondary-color-text">-Con</span>
+            Lab
+          </h1>
+        </div>
+        <div class="cta-section">
+          <a href="./" class="cta-link">
+            <img
+              class="cta-btn bounce-in"
+              src="./assets/icons/house-bold.svg"
+              alt="Inicio"
+            />
+          </a>
+          <a href="#catalog-section" class="cta-link">
+            <img
+              class="cta-btn bounce-in"
+              src="./assets/icons/game-controller-bold.svg"
+              alt="Catálogo"
+            />
+          </a>
+          <a
+            href="https://wa.me/5351643954?text=Hola,%20escriba%20su%20mensaje%20aquí."
+            target="_blank"
+            rel="noopener noreferrer"
+            class="cta-link"
+          >
+            <img
+              class="cta-btn bounce-in"
+              src="./assets/icons/envelope-simple-bold.svg"
+              alt="Contacto"
+            />
+          </a>
+          <button
+            type="button"
+            id="favorites-btn"
+            class="cta-link"
+            aria-haspopup="dialog"
+            aria-controls="favorites-modal"
+          >
+            <img
+              class="cta-btn bounce-in"
+              src="./assets/icons/heart-straight-bold.svg"
+              alt="Favoritos"
+            />
+          </button>
+        </div>
+        <div class="update-info bounce-in">
+          <h3>ultima actualización</h3>
+          <h4>25/09/2026</h4>
+        </div>
+        <a href="#filters-section" class="scroll-icon">❯</a>
+      </div>
+    </header>
+    <div class="body-content">
+      <section id="filters-section" class="filters-section">
+        <div class="filters">
+          <input
+            type="text"
+            id="search-bar"
+            class="search-bar"
+            placeholder="Buscar juegos o géneros..."
+          />
+          <button
+            id="sort-btn"
+            class="sort-btn"
+            type="button"
+            aria-expanded="false"
+            aria-controls="sort-options"
+          >
+            <img src="./assets/icons/funnel-simple-bold.svg" alt="Filtrar" />
+          </button>
+          <div class="sort-dropdown">
+            <ul id="sort-options" class="sort-options hidden bounce-in">
+              <li data-sort="name-asc">Nombre A–Z</li>
+              <li data-sort="name-desc">Nombre Z–A</li>
+              <li data-sort="size-asc">Tamaño ↑</li>
+              <li data-sort="size-desc">Tamaño ↓</li>
+              <li data-sort="recent">Más recientes</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <!-- Catalog -->
+      <section id="catalog-section" class="catalog-section">
+        <main id="games-grid" class="games-grid"></main>
+      </section>
+    </div>
+    <div
+      id="favorites-modal"
+      class="favorites-modal"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="favorites-modal-title"
+    >
+      <div class="favorites-modal-box">
+        <div class="favorites-modal-header">
+          <h2 id="favorites-modal-title">Favoritos</h2>
+          <button
+            type="button"
+            id="favorites-close-btn"
+            class="favorites-close-btn"
+            aria-label="Cerrar"
+          >
+            ✕
+          </button>
+        </div>
+        <ul id="favorites-list" class="favorites-list"></ul>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./js/supabase-config.js"></script>
+    <script src="./js/main.js"></script>
+  </body>
 </html>
