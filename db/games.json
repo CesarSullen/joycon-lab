@@ -1062,5 +1062,21 @@
     "image_url": "https://cdn2.steamgriddb.com/thumb/c4ad18f286e0e87b487e55aec96ebb39.jpg",
     "name": "Tomb Raider: Definitive Edition",
     "storage_size": 28.0
+  },
+  {
+    "eshop_link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Chants-of-Sennaar-2370366.html",
+    "genre": "Aventura, Puzle",
+    "id": 134,
+    "image_url": "https://cdn2.steamgriddb.com/thumb/e3575ce0b9a4cfd833358ab37bc100df.jpg",
+    "name": "Chants of Sennaar",
+    "storage_size": 0.684
+  },
+  {
+    "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Yu-Gi-Oh-Legacy-of-the-Duelist-Link-Evolution--1562791.html",
+    "genre": "Cartas, Estrategia",
+    "id": 135,
+    "image_url": "https://cdn2.steamgriddb.com/thumb/ace582ed0e321f942bf47a8fc7423ebe.jpg",
+    "name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+    "storage_size": 1.7
   }
 ]
