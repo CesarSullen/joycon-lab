@@ -1078,5 +1078,21 @@
     "image_url": "https://cdn2.steamgriddb.com/thumb/ace582ed0e321f942bf47a8fc7423ebe.jpg",
     "name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
     "storage_size": 1.7
+  },
+  {
+    "eshop_link": "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Yasha-Legends-of-the-Demon-Blade-2810558.html",
+    "genre": "Acción, Aventura, Rol (RPG)",
+    "id": 136,
+    "image_url": "https://cdn2.steamgriddb.com/thumb/bf919a601a53c6cf4fe6eb7ac6ef2fc7.jpg",
+    "name": "Yasha: Legends of the Demon Blade",
+    "storage_size": 3.8
+  },
+  {
+    "eshop_link": "",
+    "genre": "Carreras, Acción",
+    "id": 137,
+    "image_url": "https://cdn2.steamgriddb.com/thumb/a86cc0b404ab003e0badb9ed96b55ace.png",
+    "name": "Need for Speed: Most Wanted",
+    "storage_size": 6.6
   }
 ]
